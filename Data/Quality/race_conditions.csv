@@ -1,0 +1,132 @@
+Year,Round,Condition,CompoundsPresent,DryLaps,TotalLaps,EventName
+2020,1,dry,"HARD,MEDIUM,SOFT",775,775,Austrian Grand Prix
+2020,2,mixed,"HARD,MEDIUM,SOFT",878,878,Styrian Grand Prix
+2020,3,mixed,"HARD,MEDIUM,SOFT",609,609,Hungarian Grand Prix
+2020,4,dry,"HARD,MEDIUM,SOFT",586,586,British Grand Prix
+2020,5,dry,"HARD,MEDIUM,SOFT",918,918,70th Anniversary Grand Prix
+2020,6,dry,"MEDIUM,SOFT",359,359,Spanish Grand Prix
+2020,7,dry,"HARD,MEDIUM,SOFT",666,666,Belgian Grand Prix
+2020,8,dry,"HARD,MEDIUM,SOFT",747,747,Italian Grand Prix
+2020,9,dry,"HARD,MEDIUM,SOFT",394,394,Tuscan Grand Prix
+2020,10,dry,"HARD,MEDIUM,SOFT",752,752,Russian Grand Prix
+2020,11,mixed,"HARD,MEDIUM,SOFT",672,672,Eifel Grand Prix
+2020,12,dry,"HARD,MEDIUM,SOFT",1106,1106,Portuguese Grand Prix
+2020,13,dry,"HARD,MEDIUM,SOFT",771,771,Emilia Romagna Grand Prix
+2020,14,wet,INTERMEDIATE,0,422,Turkish Grand Prix
+2020,15,dry,"HARD,MEDIUM,SOFT",709,709,Bahrain Grand Prix
+2020,16,dry,"HARD,MEDIUM,SOFT",1039,1039,Sakhir Grand Prix
+2020,17,dry,"HARD,MEDIUM,SOFT",930,930,Abu Dhabi Grand Prix
+2021,1,dry,"HARD,MEDIUM,SOFT",801,801,Bahrain Grand Prix
+2021,2,mixed,"MEDIUM,SOFT",421,421,Emilia Romagna Grand Prix
+2021,3,dry,"HARD,MEDIUM,SOFT",1007,1007,Portuguese Grand Prix
+2021,4,dry,"MEDIUM,SOFT",429,429,Spanish Grand Prix
+2021,5,dry,"HARD,MEDIUM,SOFT",1080,1080,Monaco Grand Prix
+2021,6,dry,"HARD,MEDIUM,SOFT",705,705,Azerbaijan Grand Prix
+2021,7,dry,"HARD,MEDIUM,SOFT",983,983,French Grand Prix
+2021,8,dry,"HARD,MEDIUM,SOFT",1030,1030,Styrian Grand Prix
+2021,9,mixed,"HARD,MEDIUM,SOFT",923,923,Austrian Grand Prix
+2021,10,dry,"HARD,MEDIUM,SOFT",759,759,British Grand Prix
+2021,11,mixed,"HARD,MEDIUM,SOFT",594,594,Hungarian Grand Prix
+2021,12,mixed,"UNKNOWN,WET",0,8,Belgian Grand Prix
+2021,13,dry,"HARD,MEDIUM,SOFT",516,516,Dutch Grand Prix
+2021,14,dry,"HARD,MEDIUM,SOFT",750,750,Italian Grand Prix
+2021,15,mixed,"HARD,MEDIUM",801,801,Russian Grand Prix
+2021,16,wet,INTERMEDIATE,0,927,Turkish Grand Prix
+2021,17,dry,"HARD,MEDIUM,SOFT",905,905,United States Grand Prix
+2021,18,dry,"HARD,MEDIUM,SOFT",892,892,Mexico City Grand Prix
+2021,19,dry,"HARD,MEDIUM,SOFT",782,782,São Paulo Grand Prix
+2021,20,mixed,"HARD,MEDIUM,SOFT",481,481,Qatar Grand Prix
+2021,21,dry,"HARD,MEDIUM,SOFT",499,499,Saudi Arabian Grand Prix
+2021,22,dry,"HARD,MEDIUM,SOFT",802,802,Abu Dhabi Grand Prix
+2022,1,dry,"HARD,MEDIUM,SOFT",774,774,Bahrain Grand Prix
+2022,2,dry,"HARD,MEDIUM",611,611,Saudi Arabian Grand Prix
+2022,3,dry,"HARD,MEDIUM",689,689,Australian Grand Prix
+2022,4,dry,"HARD,MEDIUM,SOFT",689,689,Emilia Romagna Grand Prix
+2022,5,mixed,"HARD,MEDIUM,SOFT",866,866,Miami Grand Prix
+2022,6,dry,"HARD,MEDIUM,SOFT",870,870,Spanish Grand Prix
+2022,7,mixed,"HARD,MEDIUM,SOFT",430,430,Monaco Grand Prix
+2022,8,dry,"HARD,MEDIUM,SOFT",767,767,Azerbaijan Grand Prix
+2022,9,dry,"HARD,MEDIUM",1024,1024,Canadian Grand Prix
+2022,10,mixed,"HARD,MEDIUM,SOFT",672,672,British Grand Prix
+2022,11,dry,"HARD,MEDIUM",945,945,Austrian Grand Prix
+2022,12,dry,"HARD,MEDIUM",829,829,French Grand Prix
+2022,13,mixed,"HARD,MEDIUM,SOFT",1164,1164,Hungarian Grand Prix
+2022,14,dry,"HARD,MEDIUM,SOFT",631,631,Belgian Grand Prix
+2022,15,dry,"HARD,MEDIUM,SOFT",1103,1103,Dutch Grand Prix
+2022,16,dry,"HARD,MEDIUM,SOFT",788,788,Italian Grand Prix
+2022,17,mixed,"MEDIUM,SOFT",203,203,Singapore Grand Prix
+2022,18,wet,"INTERMEDIATE,WET",0,346,Japanese Grand Prix
+2022,19,dry,"HARD,MEDIUM,SOFT",793,793,United States Grand Prix
+2022,20,dry,"HARD,MEDIUM,SOFT",1195,1195,Mexico City Grand Prix
+2022,21,dry,"HARD,MEDIUM,SOFT",927,927,São Paulo Grand Prix
+2022,22,dry,"HARD,MEDIUM,SOFT",1042,1042,Abu Dhabi Grand Prix
+2023,1,dry,"HARD,MEDIUM,SOFT",826,826,Bahrain Grand Prix
+2023,2,dry,"HARD,MEDIUM,SOFT",817,817,Saudi Arabian Grand Prix
+2023,3,dry,"HARD,MEDIUM,SOFT",745,745,Australian Grand Prix
+2023,4,dry,"HARD,MEDIUM,SOFT",838,838,Azerbaijan Grand Prix
+2023,5,dry,"HARD,MEDIUM,SOFT",1078,1078,Miami Grand Prix
+2023,6,mixed,"HARD,MEDIUM,SOFT",944,944,Monaco Grand Prix
+2023,7,dry,"HARD,MEDIUM,SOFT",1081,1081,Spanish Grand Prix
+2023,8,dry,"HARD,MEDIUM,SOFT",1112,1112,Canadian Grand Prix
+2023,9,mixed,"HARD,MEDIUM,SOFT",1055,1055,Austrian Grand Prix
+2023,10,dry,"HARD,MEDIUM,SOFT",816,816,British Grand Prix
+2023,11,dry,"HARD,MEDIUM,SOFT",1059,1059,Hungarian Grand Prix
+2023,12,mixed,"HARD,MEDIUM,SOFT",570,570,Belgian Grand Prix
+2023,13,mixed,"HARD,MEDIUM,SOFT",746,746,Dutch Grand Prix
+2023,14,dry,"HARD,MEDIUM",886,886,Italian Grand Prix
+2023,15,dry,"HARD,MEDIUM,SOFT",910,910,Singapore Grand Prix
+2023,16,dry,"HARD,MEDIUM,SOFT",673,673,Japanese Grand Prix
+2023,17,dry,"HARD,MEDIUM,SOFT",688,688,Qatar Grand Prix
+2023,18,dry,"HARD,MEDIUM,SOFT",933,933,United States Grand Prix
+2023,19,dry,"HARD,MEDIUM,SOFT",1122,1122,Mexico City Grand Prix
+2023,20,mixed,"MEDIUM,SOFT",925,925,São Paulo Grand Prix
+2023,21,dry,"HARD,MEDIUM,SOFT",715,715,Las Vegas Grand Prix
+2023,22,dry,"HARD,MEDIUM",1086,1086,Abu Dhabi Grand Prix
+2024,1,dry,"HARD,SOFT",992,992,Bahrain Grand Prix
+2024,2,dry,"HARD,MEDIUM,SOFT",810,810,Saudi Arabian Grand Prix
+2024,3,dry,"HARD,MEDIUM,SOFT",858,858,Australian Grand Prix
+2024,4,dry,"HARD,MEDIUM,SOFT",754,754,Japanese Grand Prix
+2024,5,dry,"HARD,MEDIUM,SOFT",769,769,Chinese Grand Prix
+2024,6,dry,"HARD,MEDIUM,SOFT",942,942,Miami Grand Prix
+2024,7,dry,"HARD,MEDIUM,SOFT",1141,1141,Emilia Romagna Grand Prix
+2024,8,dry,"HARD,MEDIUM,SOFT",566,566,Monaco Grand Prix
+2024,9,mixed,"HARD,MEDIUM",208,208,Canadian Grand Prix
+2024,10,mixed,"HARD,MEDIUM,SOFT",1124,1124,Spanish Grand Prix
+2024,11,mixed,"HARD,MEDIUM,SOFT",1202,1202,Austrian Grand Prix
+2024,12,mixed,"HARD,MEDIUM,SOFT",556,556,British Grand Prix
+2024,13,dry,"HARD,MEDIUM,SOFT",1122,1122,Hungarian Grand Prix
+2024,14,dry,"HARD,MEDIUM,SOFT",748,748,Belgian Grand Prix
+2024,15,dry,"HARD,MEDIUM,SOFT",1339,1339,Dutch Grand Prix
+2024,16,dry,"HARD,MEDIUM,SOFT",899,899,Italian Grand Prix
+2024,17,dry,"HARD,MEDIUM",868,868,Azerbaijan Grand Prix
+2024,18,dry,"HARD,MEDIUM,SOFT",1083,1083,Singapore Grand Prix
+2024,19,dry,"HARD,MEDIUM,SOFT",956,956,United States Grand Prix
+2024,20,dry,"HARD,MEDIUM,SOFT",992,992,Mexico City Grand Prix
+2024,21,wet,INTERMEDIATE,0,760,São Paulo Grand Prix
+2024,22,dry,"HARD,MEDIUM,SOFT",812,812,Las Vegas Grand Prix
+2024,23,dry,"HARD,MEDIUM,SOFT",657,657,Qatar Grand Prix
+2024,24,dry,"HARD,MEDIUM,SOFT",915,915,Abu Dhabi Grand Prix
+2025,1,mixed,"HARD,INTERMEDIATE,MEDIUM",32,38,Australian Grand Prix
+2025,2,dry,"HARD,MEDIUM",998,998,Chinese Grand Prix
+2025,3,dry,"HARD,MEDIUM,SOFT",1017,1017,Japanese Grand Prix
+2025,4,dry,"HARD,MEDIUM,SOFT",980,980,Bahrain Grand Prix
+2025,5,dry,"HARD,MEDIUM",815,815,Saudi Arabian Grand Prix
+2025,6,mixed,"HARD,MEDIUM,NAN",483,865,Miami Grand Prix
+2025,7,dry,"HARD,MEDIUM",947,947,Emilia Romagna Grand Prix
+2025,8,dry,"HARD,MEDIUM,SOFT",824,824,Monaco Grand Prix
+2025,9,dry,"HARD,MEDIUM,SOFT",496,496,Spanish Grand Prix
+2025,10,mixed,"HARD,MEDIUM",1197,1197,Canadian Grand Prix
+2025,11,dry,"HARD,MEDIUM,SOFT",989,989,Austrian Grand Prix
+2025,12,mixed,"HARD,MEDIUM,SOFT",122,122,British Grand Prix
+2025,13,mixed,"HARD,MEDIUM",602,602,Belgian Grand Prix
+2025,14,dry,"HARD,MEDIUM,SOFT",1284,1284,Hungarian Grand Prix
+2025,15,dry,"HARD,MEDIUM,SOFT",976,976,Dutch Grand Prix
+2025,16,dry,"HARD,MEDIUM,SOFT",912,912,Italian Grand Prix
+2025,17,dry,"HARD,MEDIUM",853,853,Azerbaijan Grand Prix
+2025,18,mixed,"HARD,MEDIUM,SOFT",1114,1114,Singapore Grand Prix
+2025,19,dry,"HARD,MEDIUM,SOFT",992,992,United States Grand Prix
+2025,20,dry,"HARD,MEDIUM,SOFT",1142,1142,Mexico City Grand Prix
+2025,21,dry,"HARD,MEDIUM,SOFT",1037,1037,São Paulo Grand Prix
+2025,22,dry,"HARD,MEDIUM",767,767,Las Vegas Grand Prix
+2025,23,dry,"HARD,MEDIUM,SOFT",888,888,Qatar Grand Prix
+2025,24,dry,"HARD,MEDIUM,SOFT",1103,1103,Abu Dhabi Grand Prix
