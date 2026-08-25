@@ -1,0 +1,31 @@
+driver_name,nationality,last_team,birth_year,debut_year,last_active_year,career_length_years,race_wins,pole_positions,podiums,fastest_laps,championships,estimated_race_starts,win_rate_percent,podium_rate_percent,career_status
+Lewis Hamilton,GBR,Mercedes,1983,2007,2024,18,103,104,191,62,59,360,28.61,53.06,Active
+Michael Schumacher,GER,Ferrari,1969,1991,2012,22,91,68,155,68,77,400,22.75,38.75,Retired
+Sebastian Vettel,GER,Red Bull Racing,1987,2007,2022,16,53,57,122,57,38,320,16.56,38.12,Retired
+Alain Prost,FRA,McLaren,1955,1980,1993,14,51,41,106,33,41,280,18.21,37.86,Retired
+Ayrton Senna,BRA,McLaren,1960,1984,1994,11,41,65,80,19,19,220,18.64,36.36,Deceased
+Fernando Alonso,ESP,Aston Martin,1981,2001,2024,24,32,22,106,97,0,400,8.0,26.5,Active
+Nigel Mansell,GBR,Williams,1953,1980,1995,16,31,32,59,41,0,320,9.69,18.44,Retired
+Jackie Stewart,GBR,Tyrrell,1939,1965,1973,9,27,17,43,15,0,180,15.0,23.89,Retired
+Jim Clark,GBR,Lotus,1936,1960,1968,9,25,33,32,8,13,180,13.89,17.78,Deceased
+Niki Lauda,AUT,Ferrari,1949,1971,1985,15,25,24,54,24,5,300,8.33,18.0,Deceased
+Juan Manuel Fangio,ARG,Mercedes,1911,1950,1958,9,24,29,51,4,0,180,13.33,28.33,Deceased
+Mika Hakkinen,FIN,McLaren,1968,1991,2001,11,20,26,51,25,0,220,9.09,23.18,Retired
+Stirling Moss,GBR,Mercedes,1929,1951,1961,11,16,16,66,24,0,220,7.27,30.0,Deceased
+Jack Brabham,AUS,Brabham,1926,1955,1970,16,14,13,39,31,0,320,4.38,12.19,Deceased
+Emerson Fittipaldi,BRA,Lotus,1946,1970,1980,11,14,6,35,40,0,220,6.36,15.91,Retired
+Graham Hill,GBR,BRM,1929,1958,1975,18,14,13,36,39,0,360,3.89,10.0,Deceased
+Alberto Ascari,ITA,Ferrari,1918,1950,1955,6,13,14,31,0,0,120,10.83,25.83,Deceased
+Kimi Raikkonen,FIN,Ferrari,1979,2001,2021,21,21,18,103,62,0,400,5.25,25.75,Retired
+Max Verstappen,NED,Red Bull Racing,1997,2015,2024,10,56,32,61,7,0,200,28.0,30.5,Active
+Daniel Ricciardo,AUS,RB,1989,2011,2024,14,8,3,32,16,0,280,2.86,11.43,Active
+Charles Leclerc,MON,Ferrari,1997,2018,2024,7,5,24,18,0,0,140,3.57,12.86,Active
+Lando Norris,GBR,McLaren,1999,2019,2024,6,1,13,11,0,0,120,0.83,9.17,Active
+George Russell,GBR,Mercedes,1998,2019,2024,6,2,12,8,0,0,120,1.67,6.67,Active
+Carlos Sainz Jr.,ESP,Ferrari,1994,2015,2024,10,3,15,23,0,0,200,1.5,11.5,Active
+Sergio Perez,MEX,Red Bull Racing,1990,2011,2024,14,6,12,39,0,0,280,2.14,13.93,Active
+Valtteri Bottas,FIN,Kick Sauber,1989,2013,2024,12,10,20,67,0,0,240,4.17,27.92,Active
+Oscar Piastri,AUS,McLaren,2001,2023,2024,2,2,1,3,0,0,40,5.0,7.5,Active
+Lance Stroll,CAN,Aston Martin,1998,2017,2024,8,0,1,3,0,0,160,0.0,1.88,Active
+Yuki Tsunoda,JPN,RB,2000,2021,2024,4,0,0,0,0,0,80,0.0,0.0,Active
+Pierre Gasly,FRA,Alpine,1996,2017,2024,8,1,4,9,0,0,160,0.62,5.62,Active

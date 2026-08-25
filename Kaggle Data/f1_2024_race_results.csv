@@ -1,0 +1,481 @@
+race_id,race_name,circuit,city,country,circuit_length_km,total_laps,position,driver_name,team,nationality,car_number,race_time,points,fastest_lap,pole_position
+1,Bahrain Grand Prix,Bahrain International Circuit,Sakhir,Bahrain,5.412,57,1,Max Verstappen,Red Bull Racing,NED,1,1:35:17.520,25,No,Yes
+1,Bahrain Grand Prix,Bahrain International Circuit,Sakhir,Bahrain,5.412,57,2,Lewis Hamilton,Mercedes,GBR,44,+11.472,18,No,No
+1,Bahrain Grand Prix,Bahrain International Circuit,Sakhir,Bahrain,5.412,57,3,Carlos Sainz,Ferrari,ESP,55,+18.138,15,No,No
+1,Bahrain Grand Prix,Bahrain International Circuit,Sakhir,Bahrain,5.412,57,4,Sergio Perez,Red Bull Racing,MEX,11,+84.310,12,Yes,No
+1,Bahrain Grand Prix,Bahrain International Circuit,Sakhir,Bahrain,5.412,57,5,George Russell,Mercedes,GBR,63,+45.823,10,No,No
+1,Bahrain Grand Prix,Bahrain International Circuit,Sakhir,Bahrain,5.412,57,6,Charles Leclerc,Ferrari,MON,16,+33.692,8,No,No
+1,Bahrain Grand Prix,Bahrain International Circuit,Sakhir,Bahrain,5.412,57,7,Pierre Gasly,Alpine,FRA,10,+76.925,6,No,No
+1,Bahrain Grand Prix,Bahrain International Circuit,Sakhir,Bahrain,5.412,57,8,Oscar Piastri,McLaren,AUS,81,+56.934,4,No,No
+1,Bahrain Grand Prix,Bahrain International Circuit,Sakhir,Bahrain,5.412,57,9,Lance Stroll,Aston Martin,CAN,18,+53.993,2,No,No
+1,Bahrain Grand Prix,Bahrain International Circuit,Sakhir,Bahrain,5.412,57,10,Lando Norris,McLaren,GBR,4,+53.858,1,No,No
+1,Bahrain Grand Prix,Bahrain International Circuit,Sakhir,Bahrain,5.412,57,11,Fernando Alonso,Aston Martin,ESP,14,+1 lap,0,No,No
+1,Bahrain Grand Prix,Bahrain International Circuit,Sakhir,Bahrain,5.412,57,12,Esteban Ocon,Alpine,FRA,31,+3 laps,0,No,No
+1,Bahrain Grand Prix,Bahrain International Circuit,Sakhir,Bahrain,5.412,57,13,Logan Sargeant,Williams,USA,2,+3 laps,0,No,No
+1,Bahrain Grand Prix,Bahrain International Circuit,Sakhir,Bahrain,5.412,57,14,Zhou Guanyu,Kick Sauber,CHN,24,+3 laps,0,No,No
+1,Bahrain Grand Prix,Bahrain International Circuit,Sakhir,Bahrain,5.412,57,15,Kevin Magnussen,Haas,DEN,20,+3 laps,0,No,No
+1,Bahrain Grand Prix,Bahrain International Circuit,Sakhir,Bahrain,5.412,57,16,Valtteri Bottas,Kick Sauber,FIN,77,+3 lap,0,No,No
+1,Bahrain Grand Prix,Bahrain International Circuit,Sakhir,Bahrain,5.412,57,17,Yuki Tsunoda,RB,JPN,22,DNF,0,No,No
+1,Bahrain Grand Prix,Bahrain International Circuit,Sakhir,Bahrain,5.412,57,18,Alex Albon,Williams,THA,23,+3 laps,0,No,No
+1,Bahrain Grand Prix,Bahrain International Circuit,Sakhir,Bahrain,5.412,57,19,Nico Hulkenberg,Haas,GER,27,+1 lap,0,No,No
+1,Bahrain Grand Prix,Bahrain International Circuit,Sakhir,Bahrain,5.412,57,20,Daniel Ricciardo,RB,AUS,3,+2 laps,0,No,No
+2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,6.174,50,1,Charles Leclerc,Ferrari,MON,16,1:29:49.951,25,No,Yes
+2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,6.174,50,2,Carlos Sainz,Ferrari,ESP,55,+5.892,18,No,No
+2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,6.174,50,3,Max Verstappen,Red Bull Racing,NED,1,+8.904,15,No,No
+2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,6.174,50,4,George Russell,Mercedes,GBR,63,+67.759,12,No,No
+2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,6.174,50,5,Sergio Perez,Red Bull Racing,MEX,11,+80.502,10,No,No
+2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,6.174,50,6,Lewis Hamilton,Mercedes,GBR,44,+86.565,8,No,No
+2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,6.174,50,7,Esteban Ocon,Alpine,FRA,31,+54.583,6,No,No
+2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,6.174,50,8,Fernando Alonso,Aston Martin,ESP,14,+81.251,4,No,No
+2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,6.174,50,9,Pierre Gasly,Alpine,FRA,10,+31.523,2,No,No
+2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,6.174,50,10,Lance Stroll,Aston Martin,CAN,18,+39.832,1,No,No
+2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,6.174,50,11,Oscar Piastri,McLaren,AUS,81,+3 laps,0,No,No
+2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,6.174,50,12,Lando Norris,McLaren,GBR,4,+2 laps,0,No,No
+2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,6.174,50,13,Logan Sargeant,Williams,USA,2,+1 laps,0,No,No
+2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,6.174,50,14,Nico Hulkenberg,Haas,GER,27,+2 lap,0,No,No
+2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,6.174,50,15,Yuki Tsunoda,RB,JPN,22,+1 laps,0,No,No
+2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,6.174,50,16,Alex Albon,Williams,THA,23,+1 lap,0,No,No
+2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,6.174,50,17,Kevin Magnussen,Haas,DEN,20,+1 laps,0,No,No
+2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,6.174,50,18,Valtteri Bottas,Kick Sauber,FIN,77,+3 laps,0,No,No
+2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,6.174,50,19,Daniel Ricciardo,RB,AUS,3,+1 laps,0,No,No
+2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,6.174,50,20,Zhou Guanyu,Kick Sauber,CHN,24,DNF,0,No,No
+3,Australian Grand Prix,Albert Park Circuit,Melbourne,Australia,5.278,58,1,Charles Leclerc,Ferrari,MON,16,1:33:33.680,25,Yes,Yes
+3,Australian Grand Prix,Albert Park Circuit,Melbourne,Australia,5.278,58,2,Max Verstappen,Red Bull Racing,NED,1,+11.428,18,No,No
+3,Australian Grand Prix,Albert Park Circuit,Melbourne,Australia,5.278,58,3,Lewis Hamilton,Mercedes,GBR,44,+23.293,15,No,No
+3,Australian Grand Prix,Albert Park Circuit,Melbourne,Australia,5.278,58,4,George Russell,Mercedes,GBR,63,+55.337,12,No,No
+3,Australian Grand Prix,Albert Park Circuit,Melbourne,Australia,5.278,58,5,Sergio Perez,Red Bull Racing,MEX,11,+84.717,10,No,No
+3,Australian Grand Prix,Albert Park Circuit,Melbourne,Australia,5.278,58,6,Carlos Sainz,Ferrari,ESP,55,+68.393,8,No,No
+3,Australian Grand Prix,Albert Park Circuit,Melbourne,Australia,5.278,58,7,Oscar Piastri,McLaren,AUS,81,+42.707,6,No,No
+3,Australian Grand Prix,Albert Park Circuit,Melbourne,Australia,5.278,58,8,Lance Stroll,Aston Martin,CAN,18,+50.876,4,No,No
+3,Australian Grand Prix,Albert Park Circuit,Melbourne,Australia,5.278,58,9,Fernando Alonso,Aston Martin,ESP,14,+71.173,2,No,No
+3,Australian Grand Prix,Albert Park Circuit,Melbourne,Australia,5.278,58,10,Pierre Gasly,Alpine,FRA,10,+55.170,1,No,No
+3,Australian Grand Prix,Albert Park Circuit,Melbourne,Australia,5.278,58,11,Esteban Ocon,Alpine,FRA,31,+3 laps,0,No,No
+3,Australian Grand Prix,Albert Park Circuit,Melbourne,Australia,5.278,58,12,Lando Norris,McLaren,GBR,4,+3 laps,0,No,No
+3,Australian Grand Prix,Albert Park Circuit,Melbourne,Australia,5.278,58,13,Logan Sargeant,Williams,USA,2,+2 laps,0,No,No
+3,Australian Grand Prix,Albert Park Circuit,Melbourne,Australia,5.278,58,14,Valtteri Bottas,Kick Sauber,FIN,77,+2 laps,0,No,No
+3,Australian Grand Prix,Albert Park Circuit,Melbourne,Australia,5.278,58,15,Kevin Magnussen,Haas,DEN,20,+1 laps,0,No,No
+3,Australian Grand Prix,Albert Park Circuit,Melbourne,Australia,5.278,58,16,Zhou Guanyu,Kick Sauber,CHN,24,+3 laps,0,No,No
+3,Australian Grand Prix,Albert Park Circuit,Melbourne,Australia,5.278,58,17,Alex Albon,Williams,THA,23,+3 lap,0,No,No
+3,Australian Grand Prix,Albert Park Circuit,Melbourne,Australia,5.278,58,18,Yuki Tsunoda,RB,JPN,22,+3 laps,0,No,No
+3,Australian Grand Prix,Albert Park Circuit,Melbourne,Australia,5.278,58,19,Nico Hulkenberg,Haas,GER,27,+3 laps,0,No,No
+3,Australian Grand Prix,Albert Park Circuit,Melbourne,Australia,5.278,58,20,Daniel Ricciardo,RB,AUS,3,+3 laps,0,No,No
+4,Japanese Grand Prix,Suzuka International Racing Course,Suzuka,Japan,5.807,53,1,Max Verstappen,Red Bull Racing,NED,1,1:25:47.561,25,No,No
+4,Japanese Grand Prix,Suzuka International Racing Course,Suzuka,Japan,5.807,53,2,Lewis Hamilton,Mercedes,GBR,44,+14.719,18,No,No
+4,Japanese Grand Prix,Suzuka International Racing Course,Suzuka,Japan,5.807,53,3,Charles Leclerc,Ferrari,MON,16,+19.814,15,No,No
+4,Japanese Grand Prix,Suzuka International Racing Course,Suzuka,Japan,5.807,53,4,Sergio Perez,Red Bull Racing,MEX,11,+28.206,12,No,No
+4,Japanese Grand Prix,Suzuka International Racing Course,Suzuka,Japan,5.807,53,5,George Russell,Mercedes,GBR,63,+83.929,10,No,No
+4,Japanese Grand Prix,Suzuka International Racing Course,Suzuka,Japan,5.807,53,6,Carlos Sainz,Ferrari,ESP,55,+55.580,8,No,No
+4,Japanese Grand Prix,Suzuka International Racing Course,Suzuka,Japan,5.807,53,7,Pierre Gasly,Alpine,FRA,10,+50.535,6,No,No
+4,Japanese Grand Prix,Suzuka International Racing Course,Suzuka,Japan,5.807,53,8,Esteban Ocon,Alpine,FRA,31,+45.982,4,No,No
+4,Japanese Grand Prix,Suzuka International Racing Course,Suzuka,Japan,5.807,53,9,Fernando Alonso,Aston Martin,ESP,14,+90.923,2,No,No
+4,Japanese Grand Prix,Suzuka International Racing Course,Suzuka,Japan,5.807,53,10,Lando Norris,McLaren,GBR,4,+80.140,1,No,No
+4,Japanese Grand Prix,Suzuka International Racing Course,Suzuka,Japan,5.807,53,11,Lance Stroll,Aston Martin,CAN,18,+1 lap,0,No,No
+4,Japanese Grand Prix,Suzuka International Racing Course,Suzuka,Japan,5.807,53,12,Oscar Piastri,McLaren,AUS,81,+1 laps,0,No,No
+4,Japanese Grand Prix,Suzuka International Racing Course,Suzuka,Japan,5.807,53,13,Nico Hulkenberg,Haas,GER,27,DNF,0,No,No
+4,Japanese Grand Prix,Suzuka International Racing Course,Suzuka,Japan,5.807,53,14,Zhou Guanyu,Kick Sauber,CHN,24,+1 lap,0,No,No
+4,Japanese Grand Prix,Suzuka International Racing Course,Suzuka,Japan,5.807,53,15,Yuki Tsunoda,RB,JPN,22,+3 laps,0,No,No
+4,Japanese Grand Prix,Suzuka International Racing Course,Suzuka,Japan,5.807,53,16,Kevin Magnussen,Haas,DEN,20,+2 lap,0,No,No
+4,Japanese Grand Prix,Suzuka International Racing Course,Suzuka,Japan,5.807,53,17,Valtteri Bottas,Kick Sauber,FIN,77,+1 lap,0,No,No
+4,Japanese Grand Prix,Suzuka International Racing Course,Suzuka,Japan,5.807,53,18,Alex Albon,Williams,THA,23,+3 laps,0,No,No
+4,Japanese Grand Prix,Suzuka International Racing Course,Suzuka,Japan,5.807,53,19,Logan Sargeant,Williams,USA,2,+1 lap,0,No,No
+4,Japanese Grand Prix,Suzuka International Racing Course,Suzuka,Japan,5.807,53,20,Daniel Ricciardo,RB,AUS,3,+1 laps,0,No,No
+5,Chinese Grand Prix,Shanghai International Circuit,Shanghai,China,5.451,56,1,Max Verstappen,Red Bull Racing,NED,1,1:30:11.266,25,No,No
+5,Chinese Grand Prix,Shanghai International Circuit,Shanghai,China,5.451,56,2,George Russell,Mercedes,GBR,63,+12.276,18,No,No
+5,Chinese Grand Prix,Shanghai International Circuit,Shanghai,China,5.451,56,3,Carlos Sainz,Ferrari,ESP,55,+17.943,15,No,No
+5,Chinese Grand Prix,Shanghai International Circuit,Shanghai,China,5.451,56,4,Charles Leclerc,Ferrari,MON,16,+57.823,12,No,No
+5,Chinese Grand Prix,Shanghai International Circuit,Shanghai,China,5.451,56,5,Lewis Hamilton,Mercedes,GBR,44,+22.871,10,No,No
+5,Chinese Grand Prix,Shanghai International Circuit,Shanghai,China,5.451,56,6,Sergio Perez,Red Bull Racing,MEX,11,+47.827,8,No,No
+5,Chinese Grand Prix,Shanghai International Circuit,Shanghai,China,5.451,56,7,Lando Norris,McLaren,GBR,4,+81.724,6,No,No
+5,Chinese Grand Prix,Shanghai International Circuit,Shanghai,China,5.451,56,8,Fernando Alonso,Aston Martin,ESP,14,+48.767,4,No,No
+5,Chinese Grand Prix,Shanghai International Circuit,Shanghai,China,5.451,56,9,Oscar Piastri,McLaren,AUS,81,+31.469,2,No,No
+5,Chinese Grand Prix,Shanghai International Circuit,Shanghai,China,5.451,56,10,Esteban Ocon,Alpine,FRA,31,+72.518,1,No,No
+5,Chinese Grand Prix,Shanghai International Circuit,Shanghai,China,5.451,56,11,Lance Stroll,Aston Martin,CAN,18,+3 lap,0,No,No
+5,Chinese Grand Prix,Shanghai International Circuit,Shanghai,China,5.451,56,12,Pierre Gasly,Alpine,FRA,10,+1 laps,0,No,No
+5,Chinese Grand Prix,Shanghai International Circuit,Shanghai,China,5.451,56,13,Nico Hulkenberg,Haas,GER,27,+1 laps,0,No,No
+5,Chinese Grand Prix,Shanghai International Circuit,Shanghai,China,5.451,56,14,Valtteri Bottas,Kick Sauber,FIN,77,+1 laps,0,No,No
+5,Chinese Grand Prix,Shanghai International Circuit,Shanghai,China,5.451,56,15,Zhou Guanyu,Kick Sauber,CHN,24,DNF,0,No,No
+5,Chinese Grand Prix,Shanghai International Circuit,Shanghai,China,5.451,56,16,Logan Sargeant,Williams,USA,2,+3 lap,0,No,No
+5,Chinese Grand Prix,Shanghai International Circuit,Shanghai,China,5.451,56,17,Daniel Ricciardo,RB,AUS,3,+1 laps,0,No,No
+5,Chinese Grand Prix,Shanghai International Circuit,Shanghai,China,5.451,56,18,Kevin Magnussen,Haas,DEN,20,+1 laps,0,No,No
+5,Chinese Grand Prix,Shanghai International Circuit,Shanghai,China,5.451,56,19,Yuki Tsunoda,RB,JPN,22,+2 laps,0,No,No
+5,Chinese Grand Prix,Shanghai International Circuit,Shanghai,China,5.451,56,20,Alex Albon,Williams,THA,23,+3 laps,0,No,No
+6,Miami Grand Prix,Miami International Autodrome,Miami,USA,5.412,57,1,Carlos Sainz,Ferrari,ESP,55,1:27:21.753,25,No,Yes
+6,Miami Grand Prix,Miami International Autodrome,Miami,USA,5.412,57,2,Charles Leclerc,Ferrari,MON,16,+14.476,18,Yes,No
+6,Miami Grand Prix,Miami International Autodrome,Miami,USA,5.412,57,3,Lewis Hamilton,Mercedes,GBR,44,+12.350,15,No,No
+6,Miami Grand Prix,Miami International Autodrome,Miami,USA,5.412,57,4,George Russell,Mercedes,GBR,63,+81.111,12,Yes,No
+6,Miami Grand Prix,Miami International Autodrome,Miami,USA,5.412,57,5,Max Verstappen,Red Bull Racing,NED,1,+19.396,10,No,No
+6,Miami Grand Prix,Miami International Autodrome,Miami,USA,5.412,57,6,Sergio Perez,Red Bull Racing,MEX,11,+55.404,8,No,No
+6,Miami Grand Prix,Miami International Autodrome,Miami,USA,5.412,57,7,Lando Norris,McLaren,GBR,4,+70.976,6,No,No
+6,Miami Grand Prix,Miami International Autodrome,Miami,USA,5.412,57,8,Oscar Piastri,McLaren,AUS,81,+69.365,4,No,No
+6,Miami Grand Prix,Miami International Autodrome,Miami,USA,5.412,57,9,Fernando Alonso,Aston Martin,ESP,14,+57.705,2,No,No
+6,Miami Grand Prix,Miami International Autodrome,Miami,USA,5.412,57,10,Esteban Ocon,Alpine,FRA,31,+86.379,1,No,No
+6,Miami Grand Prix,Miami International Autodrome,Miami,USA,5.412,57,11,Pierre Gasly,Alpine,FRA,10,DNF,0,No,No
+6,Miami Grand Prix,Miami International Autodrome,Miami,USA,5.412,57,12,Lance Stroll,Aston Martin,CAN,18,+1 lap,0,No,No
+6,Miami Grand Prix,Miami International Autodrome,Miami,USA,5.412,57,13,Nico Hulkenberg,Haas,GER,27,+2 lap,0,No,No
+6,Miami Grand Prix,Miami International Autodrome,Miami,USA,5.412,57,14,Alex Albon,Williams,THA,23,+1 laps,0,No,No
+6,Miami Grand Prix,Miami International Autodrome,Miami,USA,5.412,57,15,Kevin Magnussen,Haas,DEN,20,+3 lap,0,No,No
+6,Miami Grand Prix,Miami International Autodrome,Miami,USA,5.412,57,16,Yuki Tsunoda,RB,JPN,22,+1 laps,0,No,No
+6,Miami Grand Prix,Miami International Autodrome,Miami,USA,5.412,57,17,Logan Sargeant,Williams,USA,2,DNF,0,No,No
+6,Miami Grand Prix,Miami International Autodrome,Miami,USA,5.412,57,18,Zhou Guanyu,Kick Sauber,CHN,24,+1 lap,0,No,No
+6,Miami Grand Prix,Miami International Autodrome,Miami,USA,5.412,57,19,Valtteri Bottas,Kick Sauber,FIN,77,+2 laps,0,No,No
+6,Miami Grand Prix,Miami International Autodrome,Miami,USA,5.412,57,20,Daniel Ricciardo,RB,AUS,3,+2 lap,0,No,No
+7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Imola,Italy,4.909,63,1,George Russell,Mercedes,GBR,63,1:27:31.160,25,No,No
+7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Imola,Italy,4.909,63,2,Charles Leclerc,Ferrari,MON,16,+15.766,18,No,No
+7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Imola,Italy,4.909,63,3,Lewis Hamilton,Mercedes,GBR,44,+11.521,15,No,No
+7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Imola,Italy,4.909,63,4,Sergio Perez,Red Bull Racing,MEX,11,+68.848,12,Yes,No
+7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Imola,Italy,4.909,63,5,Carlos Sainz,Ferrari,ESP,55,+50.875,10,No,No
+7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Imola,Italy,4.909,63,6,Max Verstappen,Red Bull Racing,NED,1,+58.419,8,No,No
+7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Imola,Italy,4.909,63,7,Lando Norris,McLaren,GBR,4,+47.715,6,No,No
+7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Imola,Italy,4.909,63,8,Oscar Piastri,McLaren,AUS,81,+81.175,4,No,No
+7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Imola,Italy,4.909,63,9,Lance Stroll,Aston Martin,CAN,18,+81.346,2,No,No
+7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Imola,Italy,4.909,63,10,Pierre Gasly,Alpine,FRA,10,+81.578,1,No,No
+7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Imola,Italy,4.909,63,11,Fernando Alonso,Aston Martin,ESP,14,+3 lap,0,No,No
+7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Imola,Italy,4.909,63,12,Esteban Ocon,Alpine,FRA,31,+2 lap,0,No,No
+7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Imola,Italy,4.909,63,13,Daniel Ricciardo,RB,AUS,3,+1 lap,0,No,No
+7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Imola,Italy,4.909,63,14,Alex Albon,Williams,THA,23,+3 laps,0,No,No
+7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Imola,Italy,4.909,63,15,Logan Sargeant,Williams,USA,2,+3 laps,0,No,No
+7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Imola,Italy,4.909,63,16,Nico Hulkenberg,Haas,GER,27,DNF,0,No,No
+7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Imola,Italy,4.909,63,17,Yuki Tsunoda,RB,JPN,22,+2 laps,0,No,No
+7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Imola,Italy,4.909,63,18,Valtteri Bottas,Kick Sauber,FIN,77,+3 laps,0,No,No
+7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Imola,Italy,4.909,63,19,Zhou Guanyu,Kick Sauber,CHN,24,+2 lap,0,No,No
+7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Imola,Italy,4.909,63,20,Kevin Magnussen,Haas,DEN,20,+2 lap,0,No,No
+8,Monaco Grand Prix,Circuit de Monaco,Monte Carlo,Monaco,3.337,78,1,Lewis Hamilton,Mercedes,GBR,44,1:31:12.710,25,No,Yes
+8,Monaco Grand Prix,Circuit de Monaco,Monte Carlo,Monaco,3.337,78,2,Charles Leclerc,Ferrari,MON,16,+9.837,18,Yes,No
+8,Monaco Grand Prix,Circuit de Monaco,Monte Carlo,Monaco,3.337,78,3,Carlos Sainz,Ferrari,ESP,55,+9.344,15,Yes,No
+8,Monaco Grand Prix,Circuit de Monaco,Monte Carlo,Monaco,3.337,78,4,George Russell,Mercedes,GBR,63,+24.942,12,Yes,No
+8,Monaco Grand Prix,Circuit de Monaco,Monte Carlo,Monaco,3.337,78,5,Sergio Perez,Red Bull Racing,MEX,11,+39.889,10,Yes,No
+8,Monaco Grand Prix,Circuit de Monaco,Monte Carlo,Monaco,3.337,78,6,Max Verstappen,Red Bull Racing,NED,1,+46.146,8,No,No
+8,Monaco Grand Prix,Circuit de Monaco,Monte Carlo,Monaco,3.337,78,7,Oscar Piastri,McLaren,AUS,81,+21.753,6,No,No
+8,Monaco Grand Prix,Circuit de Monaco,Monte Carlo,Monaco,3.337,78,8,Lando Norris,McLaren,GBR,4,+47.539,4,No,No
+8,Monaco Grand Prix,Circuit de Monaco,Monte Carlo,Monaco,3.337,78,9,Pierre Gasly,Alpine,FRA,10,+44.200,2,No,No
+8,Monaco Grand Prix,Circuit de Monaco,Monte Carlo,Monaco,3.337,78,10,Esteban Ocon,Alpine,FRA,31,+40.583,1,No,No
+8,Monaco Grand Prix,Circuit de Monaco,Monte Carlo,Monaco,3.337,78,11,Lance Stroll,Aston Martin,CAN,18,+3 lap,0,No,No
+8,Monaco Grand Prix,Circuit de Monaco,Monte Carlo,Monaco,3.337,78,12,Fernando Alonso,Aston Martin,ESP,14,+2 laps,0,No,No
+8,Monaco Grand Prix,Circuit de Monaco,Monte Carlo,Monaco,3.337,78,13,Daniel Ricciardo,RB,AUS,3,DNF,0,No,No
+8,Monaco Grand Prix,Circuit de Monaco,Monte Carlo,Monaco,3.337,78,14,Alex Albon,Williams,THA,23,+2 lap,0,No,No
+8,Monaco Grand Prix,Circuit de Monaco,Monte Carlo,Monaco,3.337,78,15,Logan Sargeant,Williams,USA,2,+2 laps,0,No,No
+8,Monaco Grand Prix,Circuit de Monaco,Monte Carlo,Monaco,3.337,78,16,Valtteri Bottas,Kick Sauber,FIN,77,+2 laps,0,No,No
+8,Monaco Grand Prix,Circuit de Monaco,Monte Carlo,Monaco,3.337,78,17,Zhou Guanyu,Kick Sauber,CHN,24,+3 laps,0,No,No
+8,Monaco Grand Prix,Circuit de Monaco,Monte Carlo,Monaco,3.337,78,18,Kevin Magnussen,Haas,DEN,20,+2 laps,0,No,No
+8,Monaco Grand Prix,Circuit de Monaco,Monte Carlo,Monaco,3.337,78,19,Nico Hulkenberg,Haas,GER,27,+2 lap,0,No,No
+8,Monaco Grand Prix,Circuit de Monaco,Monte Carlo,Monaco,3.337,78,20,Yuki Tsunoda,RB,JPN,22,+3 laps,0,No,No
+9,Canadian Grand Prix,Circuit Gilles Villeneuve,Montreal,Canada,4.361,70,1,Max Verstappen,Red Bull Racing,NED,1,1:34:14.504,25,No,No
+9,Canadian Grand Prix,Circuit Gilles Villeneuve,Montreal,Canada,4.361,70,2,Sergio Perez,Red Bull Racing,MEX,11,+3.583,18,No,No
+9,Canadian Grand Prix,Circuit Gilles Villeneuve,Montreal,Canada,4.361,70,3,George Russell,Mercedes,GBR,63,+25.612,15,No,No
+9,Canadian Grand Prix,Circuit Gilles Villeneuve,Montreal,Canada,4.361,70,4,Lewis Hamilton,Mercedes,GBR,44,+73.887,12,No,No
+9,Canadian Grand Prix,Circuit Gilles Villeneuve,Montreal,Canada,4.361,70,5,Charles Leclerc,Ferrari,MON,16,+15.670,10,No,No
+9,Canadian Grand Prix,Circuit Gilles Villeneuve,Montreal,Canada,4.361,70,6,Carlos Sainz,Ferrari,ESP,55,+41.139,8,No,No
+9,Canadian Grand Prix,Circuit Gilles Villeneuve,Montreal,Canada,4.361,70,7,Lando Norris,McLaren,GBR,4,+89.284,6,No,No
+9,Canadian Grand Prix,Circuit Gilles Villeneuve,Montreal,Canada,4.361,70,8,Lance Stroll,Aston Martin,CAN,18,+84.685,4,No,No
+9,Canadian Grand Prix,Circuit Gilles Villeneuve,Montreal,Canada,4.361,70,9,Esteban Ocon,Alpine,FRA,31,+21.497,2,No,No
+9,Canadian Grand Prix,Circuit Gilles Villeneuve,Montreal,Canada,4.361,70,10,Pierre Gasly,Alpine,FRA,10,+88.215,1,No,No
+9,Canadian Grand Prix,Circuit Gilles Villeneuve,Montreal,Canada,4.361,70,11,Fernando Alonso,Aston Martin,ESP,14,+3 laps,0,No,No
+9,Canadian Grand Prix,Circuit Gilles Villeneuve,Montreal,Canada,4.361,70,12,Oscar Piastri,McLaren,AUS,81,+3 lap,0,No,No
+9,Canadian Grand Prix,Circuit Gilles Villeneuve,Montreal,Canada,4.361,70,13,Valtteri Bottas,Kick Sauber,FIN,77,+3 lap,0,No,No
+9,Canadian Grand Prix,Circuit Gilles Villeneuve,Montreal,Canada,4.361,70,14,Kevin Magnussen,Haas,DEN,20,+2 laps,0,No,No
+9,Canadian Grand Prix,Circuit Gilles Villeneuve,Montreal,Canada,4.361,70,15,Alex Albon,Williams,THA,23,+3 lap,0,No,No
+9,Canadian Grand Prix,Circuit Gilles Villeneuve,Montreal,Canada,4.361,70,16,Daniel Ricciardo,RB,AUS,3,DNF,0,No,No
+9,Canadian Grand Prix,Circuit Gilles Villeneuve,Montreal,Canada,4.361,70,17,Zhou Guanyu,Kick Sauber,CHN,24,+3 laps,0,No,No
+9,Canadian Grand Prix,Circuit Gilles Villeneuve,Montreal,Canada,4.361,70,18,Logan Sargeant,Williams,USA,2,+3 laps,0,No,No
+9,Canadian Grand Prix,Circuit Gilles Villeneuve,Montreal,Canada,4.361,70,19,Yuki Tsunoda,RB,JPN,22,+2 lap,0,No,No
+9,Canadian Grand Prix,Circuit Gilles Villeneuve,Montreal,Canada,4.361,70,20,Nico Hulkenberg,Haas,GER,27,+3 laps,0,No,No
+10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Barcelona,Spain,4.675,66,1,Sergio Perez,Red Bull Racing,MEX,11,1:26:49.467,25,No,Yes
+10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Barcelona,Spain,4.675,66,2,Charles Leclerc,Ferrari,MON,16,+13.262,18,No,No
+10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Barcelona,Spain,4.675,66,3,Lewis Hamilton,Mercedes,GBR,44,+16.425,15,No,No
+10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Barcelona,Spain,4.675,66,4,Max Verstappen,Red Bull Racing,NED,1,+44.868,12,No,No
+10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Barcelona,Spain,4.675,66,5,George Russell,Mercedes,GBR,63,+76.812,10,No,No
+10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Barcelona,Spain,4.675,66,6,Carlos Sainz,Ferrari,ESP,55,+64.212,8,No,No
+10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Barcelona,Spain,4.675,66,7,Fernando Alonso,Aston Martin,ESP,14,+89.628,6,No,No
+10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Barcelona,Spain,4.675,66,8,Oscar Piastri,McLaren,AUS,81,+87.441,4,No,No
+10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Barcelona,Spain,4.675,66,9,Lance Stroll,Aston Martin,CAN,18,+50.244,2,No,No
+10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Barcelona,Spain,4.675,66,10,Esteban Ocon,Alpine,FRA,31,+47.303,1,No,No
+10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Barcelona,Spain,4.675,66,11,Pierre Gasly,Alpine,FRA,10,+2 laps,0,No,No
+10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Barcelona,Spain,4.675,66,12,Lando Norris,McLaren,GBR,4,+2 laps,0,No,No
+10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Barcelona,Spain,4.675,66,13,Valtteri Bottas,Kick Sauber,FIN,77,+2 laps,0,No,No
+10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Barcelona,Spain,4.675,66,14,Kevin Magnussen,Haas,DEN,20,+1 laps,0,No,No
+10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Barcelona,Spain,4.675,66,15,Zhou Guanyu,Kick Sauber,CHN,24,+3 laps,0,No,No
+10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Barcelona,Spain,4.675,66,16,Yuki Tsunoda,RB,JPN,22,+3 laps,0,No,No
+10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Barcelona,Spain,4.675,66,17,Alex Albon,Williams,THA,23,DNF,0,No,No
+10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Barcelona,Spain,4.675,66,18,Logan Sargeant,Williams,USA,2,+2 laps,0,No,No
+10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Barcelona,Spain,4.675,66,19,Nico Hulkenberg,Haas,GER,27,+1 lap,0,No,No
+10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Barcelona,Spain,4.675,66,20,Daniel Ricciardo,RB,AUS,3,+2 laps,0,No,No
+11,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,4.318,71,1,Lewis Hamilton,Mercedes,GBR,44,1:25:37.921,25,No,No
+11,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,4.318,71,2,Max Verstappen,Red Bull Racing,NED,1,+10.704,18,No,No
+11,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,4.318,71,3,Carlos Sainz,Ferrari,ESP,55,+18.481,15,No,No
+11,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,4.318,71,4,George Russell,Mercedes,GBR,63,+39.349,12,No,No
+11,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,4.318,71,5,Charles Leclerc,Ferrari,MON,16,+35.992,10,Yes,No
+11,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,4.318,71,6,Sergio Perez,Red Bull Racing,MEX,11,+23.832,8,No,No
+11,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,4.318,71,7,Esteban Ocon,Alpine,FRA,31,+62.976,6,No,No
+11,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,4.318,71,8,Fernando Alonso,Aston Martin,ESP,14,+56.871,4,No,No
+11,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,4.318,71,9,Lando Norris,McLaren,GBR,4,+23.225,2,No,No
+11,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,4.318,71,10,Lance Stroll,Aston Martin,CAN,18,+15.342,1,No,No
+11,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,4.318,71,11,Pierre Gasly,Alpine,FRA,10,+1 laps,0,No,No
+11,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,4.318,71,12,Oscar Piastri,McLaren,AUS,81,+1 laps,0,No,No
+11,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,4.318,71,13,Zhou Guanyu,Kick Sauber,CHN,24,DNF,0,No,No
+11,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,4.318,71,14,Alex Albon,Williams,THA,23,+3 laps,0,No,No
+11,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,4.318,71,15,Yuki Tsunoda,RB,JPN,22,+2 lap,0,No,No
+11,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,4.318,71,16,Kevin Magnussen,Haas,DEN,20,+1 lap,0,No,No
+11,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,4.318,71,17,Logan Sargeant,Williams,USA,2,DNF,0,No,No
+11,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,4.318,71,18,Valtteri Bottas,Kick Sauber,FIN,77,+3 lap,0,No,No
+11,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,4.318,71,19,Daniel Ricciardo,RB,AUS,3,+3 laps,0,No,No
+11,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,4.318,71,20,Nico Hulkenberg,Haas,GER,27,+3 lap,0,No,No
+12,British Grand Prix,Silverstone Circuit,Silverstone,United Kingdom,5.891,52,1,Charles Leclerc,Ferrari,MON,16,1:34:59.661,25,No,No
+12,British Grand Prix,Silverstone Circuit,Silverstone,United Kingdom,5.891,52,2,Sergio Perez,Red Bull Racing,MEX,11,+5.512,18,No,No
+12,British Grand Prix,Silverstone Circuit,Silverstone,United Kingdom,5.891,52,3,Lewis Hamilton,Mercedes,GBR,44,+17.489,15,Yes,No
+12,British Grand Prix,Silverstone Circuit,Silverstone,United Kingdom,5.891,52,4,Carlos Sainz,Ferrari,ESP,55,+29.699,12,No,No
+12,British Grand Prix,Silverstone Circuit,Silverstone,United Kingdom,5.891,52,5,George Russell,Mercedes,GBR,63,+54.829,10,No,No
+12,British Grand Prix,Silverstone Circuit,Silverstone,United Kingdom,5.891,52,6,Max Verstappen,Red Bull Racing,NED,1,+78.212,8,No,No
+12,British Grand Prix,Silverstone Circuit,Silverstone,United Kingdom,5.891,52,7,Esteban Ocon,Alpine,FRA,31,+42.735,6,No,No
+12,British Grand Prix,Silverstone Circuit,Silverstone,United Kingdom,5.891,52,8,Lance Stroll,Aston Martin,CAN,18,+74.430,4,No,No
+12,British Grand Prix,Silverstone Circuit,Silverstone,United Kingdom,5.891,52,9,Lando Norris,McLaren,GBR,4,+45.229,2,No,No
+12,British Grand Prix,Silverstone Circuit,Silverstone,United Kingdom,5.891,52,10,Fernando Alonso,Aston Martin,ESP,14,+40.848,1,No,No
+12,British Grand Prix,Silverstone Circuit,Silverstone,United Kingdom,5.891,52,11,Pierre Gasly,Alpine,FRA,10,DNF,0,No,No
+12,British Grand Prix,Silverstone Circuit,Silverstone,United Kingdom,5.891,52,12,Oscar Piastri,McLaren,AUS,81,+1 laps,0,No,No
+12,British Grand Prix,Silverstone Circuit,Silverstone,United Kingdom,5.891,52,13,Alex Albon,Williams,THA,23,+2 laps,0,No,No
+12,British Grand Prix,Silverstone Circuit,Silverstone,United Kingdom,5.891,52,14,Daniel Ricciardo,RB,AUS,3,+2 lap,0,No,No
+12,British Grand Prix,Silverstone Circuit,Silverstone,United Kingdom,5.891,52,15,Logan Sargeant,Williams,USA,2,+2 laps,0,No,No
+12,British Grand Prix,Silverstone Circuit,Silverstone,United Kingdom,5.891,52,16,Nico Hulkenberg,Haas,GER,27,+2 laps,0,No,No
+12,British Grand Prix,Silverstone Circuit,Silverstone,United Kingdom,5.891,52,17,Valtteri Bottas,Kick Sauber,FIN,77,DNF,0,No,No
+12,British Grand Prix,Silverstone Circuit,Silverstone,United Kingdom,5.891,52,18,Yuki Tsunoda,RB,JPN,22,DNF,0,No,No
+12,British Grand Prix,Silverstone Circuit,Silverstone,United Kingdom,5.891,52,19,Kevin Magnussen,Haas,DEN,20,DNF,0,No,No
+12,British Grand Prix,Silverstone Circuit,Silverstone,United Kingdom,5.891,52,20,Zhou Guanyu,Kick Sauber,CHN,24,+2 laps,0,No,No
+13,Hungarian Grand Prix,Hungaroring,Budapest,Hungary,4.381,70,1,Max Verstappen,Red Bull Racing,NED,1,1:35:25.203,25,Yes,No
+13,Hungarian Grand Prix,Hungaroring,Budapest,Hungary,4.381,70,2,Charles Leclerc,Ferrari,MON,16,+6.882,18,Yes,No
+13,Hungarian Grand Prix,Hungaroring,Budapest,Hungary,4.381,70,3,Sergio Perez,Red Bull Racing,MEX,11,+14.524,15,No,No
+13,Hungarian Grand Prix,Hungaroring,Budapest,Hungary,4.381,70,4,Carlos Sainz,Ferrari,ESP,55,+28.468,12,No,No
+13,Hungarian Grand Prix,Hungaroring,Budapest,Hungary,4.381,70,5,George Russell,Mercedes,GBR,63,+25.794,10,No,No
+13,Hungarian Grand Prix,Hungaroring,Budapest,Hungary,4.381,70,6,Lewis Hamilton,Mercedes,GBR,44,+22.154,8,No,No
+13,Hungarian Grand Prix,Hungaroring,Budapest,Hungary,4.381,70,7,Pierre Gasly,Alpine,FRA,10,+22.788,6,No,No
+13,Hungarian Grand Prix,Hungaroring,Budapest,Hungary,4.381,70,8,Fernando Alonso,Aston Martin,ESP,14,+39.128,4,No,No
+13,Hungarian Grand Prix,Hungaroring,Budapest,Hungary,4.381,70,9,Lance Stroll,Aston Martin,CAN,18,+89.488,2,No,No
+13,Hungarian Grand Prix,Hungaroring,Budapest,Hungary,4.381,70,10,Lando Norris,McLaren,GBR,4,+26.875,1,No,No
+13,Hungarian Grand Prix,Hungaroring,Budapest,Hungary,4.381,70,11,Oscar Piastri,McLaren,AUS,81,DNF,0,No,No
+13,Hungarian Grand Prix,Hungaroring,Budapest,Hungary,4.381,70,12,Esteban Ocon,Alpine,FRA,31,+2 laps,0,No,No
+13,Hungarian Grand Prix,Hungaroring,Budapest,Hungary,4.381,70,13,Valtteri Bottas,Kick Sauber,FIN,77,+1 lap,0,No,No
+13,Hungarian Grand Prix,Hungaroring,Budapest,Hungary,4.381,70,14,Nico Hulkenberg,Haas,GER,27,+3 lap,0,No,No
+13,Hungarian Grand Prix,Hungaroring,Budapest,Hungary,4.381,70,15,Zhou Guanyu,Kick Sauber,CHN,24,+2 laps,0,No,No
+13,Hungarian Grand Prix,Hungaroring,Budapest,Hungary,4.381,70,16,Alex Albon,Williams,THA,23,+1 laps,0,No,No
+13,Hungarian Grand Prix,Hungaroring,Budapest,Hungary,4.381,70,17,Yuki Tsunoda,RB,JPN,22,+3 laps,0,No,No
+13,Hungarian Grand Prix,Hungaroring,Budapest,Hungary,4.381,70,18,Kevin Magnussen,Haas,DEN,20,+1 laps,0,No,No
+13,Hungarian Grand Prix,Hungaroring,Budapest,Hungary,4.381,70,19,Logan Sargeant,Williams,USA,2,+2 laps,0,No,No
+13,Hungarian Grand Prix,Hungaroring,Budapest,Hungary,4.381,70,20,Daniel Ricciardo,RB,AUS,3,+2 laps,0,No,No
+14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,7.004,44,1,George Russell,Mercedes,GBR,63,1:26:16.229,25,No,Yes
+14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,7.004,44,2,Charles Leclerc,Ferrari,MON,16,+8.998,18,Yes,No
+14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,7.004,44,3,Carlos Sainz,Ferrari,ESP,55,+10.550,15,No,No
+14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,7.004,44,4,Sergio Perez,Red Bull Racing,MEX,11,+63.864,12,No,No
+14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,7.004,44,5,Max Verstappen,Red Bull Racing,NED,1,+27.308,10,No,No
+14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,7.004,44,6,Lewis Hamilton,Mercedes,GBR,44,+88.118,8,No,No
+14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,7.004,44,7,Oscar Piastri,McLaren,AUS,81,+57.707,6,No,No
+14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,7.004,44,8,Esteban Ocon,Alpine,FRA,31,+20.143,4,No,No
+14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,7.004,44,9,Lance Stroll,Aston Martin,CAN,18,+56.945,2,No,No
+14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,7.004,44,10,Pierre Gasly,Alpine,FRA,10,+33.335,1,No,No
+14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,7.004,44,11,Fernando Alonso,Aston Martin,ESP,14,+2 laps,0,No,No
+14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,7.004,44,12,Lando Norris,McLaren,GBR,4,+3 laps,0,No,No
+14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,7.004,44,13,Valtteri Bottas,Kick Sauber,FIN,77,+3 laps,0,No,No
+14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,7.004,44,14,Zhou Guanyu,Kick Sauber,CHN,24,+1 laps,0,No,No
+14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,7.004,44,15,Nico Hulkenberg,Haas,GER,27,+1 laps,0,No,No
+14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,7.004,44,16,Kevin Magnussen,Haas,DEN,20,+2 lap,0,No,No
+14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,7.004,44,17,Alex Albon,Williams,THA,23,+2 laps,0,No,No
+14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,7.004,44,18,Logan Sargeant,Williams,USA,2,+3 laps,0,No,No
+14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,7.004,44,19,Daniel Ricciardo,RB,AUS,3,+1 lap,0,No,No
+14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,7.004,44,20,Yuki Tsunoda,RB,JPN,22,+3 lap,0,No,No
+15,Dutch Grand Prix,Circuit Zandvoort,Zandvoort,Netherlands,4.259,72,1,Max Verstappen,Red Bull Racing,NED,1,1:34:50.611,25,No,Yes
+15,Dutch Grand Prix,Circuit Zandvoort,Zandvoort,Netherlands,4.259,72,2,Lewis Hamilton,Mercedes,GBR,44,+14.869,18,Yes,No
+15,Dutch Grand Prix,Circuit Zandvoort,Zandvoort,Netherlands,4.259,72,3,Charles Leclerc,Ferrari,MON,16,+16.269,15,No,No
+15,Dutch Grand Prix,Circuit Zandvoort,Zandvoort,Netherlands,4.259,72,4,George Russell,Mercedes,GBR,63,+49.742,12,No,No
+15,Dutch Grand Prix,Circuit Zandvoort,Zandvoort,Netherlands,4.259,72,5,Carlos Sainz,Ferrari,ESP,55,+69.408,10,No,No
+15,Dutch Grand Prix,Circuit Zandvoort,Zandvoort,Netherlands,4.259,72,6,Sergio Perez,Red Bull Racing,MEX,11,+30.918,8,No,No
+15,Dutch Grand Prix,Circuit Zandvoort,Zandvoort,Netherlands,4.259,72,7,Pierre Gasly,Alpine,FRA,10,+83.370,6,No,No
+15,Dutch Grand Prix,Circuit Zandvoort,Zandvoort,Netherlands,4.259,72,8,Lance Stroll,Aston Martin,CAN,18,+80.926,4,No,No
+15,Dutch Grand Prix,Circuit Zandvoort,Zandvoort,Netherlands,4.259,72,9,Fernando Alonso,Aston Martin,ESP,14,+79.445,2,No,No
+15,Dutch Grand Prix,Circuit Zandvoort,Zandvoort,Netherlands,4.259,72,10,Lando Norris,McLaren,GBR,4,+47.560,1,No,No
+15,Dutch Grand Prix,Circuit Zandvoort,Zandvoort,Netherlands,4.259,72,11,Esteban Ocon,Alpine,FRA,31,+1 laps,0,No,No
+15,Dutch Grand Prix,Circuit Zandvoort,Zandvoort,Netherlands,4.259,72,12,Oscar Piastri,McLaren,AUS,81,+2 lap,0,No,No
+15,Dutch Grand Prix,Circuit Zandvoort,Zandvoort,Netherlands,4.259,72,13,Alex Albon,Williams,THA,23,+1 laps,0,No,No
+15,Dutch Grand Prix,Circuit Zandvoort,Zandvoort,Netherlands,4.259,72,14,Nico Hulkenberg,Haas,GER,27,+1 laps,0,No,No
+15,Dutch Grand Prix,Circuit Zandvoort,Zandvoort,Netherlands,4.259,72,15,Yuki Tsunoda,RB,JPN,22,+1 laps,0,No,No
+15,Dutch Grand Prix,Circuit Zandvoort,Zandvoort,Netherlands,4.259,72,16,Zhou Guanyu,Kick Sauber,CHN,24,+1 lap,0,No,No
+15,Dutch Grand Prix,Circuit Zandvoort,Zandvoort,Netherlands,4.259,72,17,Kevin Magnussen,Haas,DEN,20,+2 laps,0,No,No
+15,Dutch Grand Prix,Circuit Zandvoort,Zandvoort,Netherlands,4.259,72,18,Logan Sargeant,Williams,USA,2,+1 lap,0,No,No
+15,Dutch Grand Prix,Circuit Zandvoort,Zandvoort,Netherlands,4.259,72,19,Valtteri Bottas,Kick Sauber,FIN,77,+2 lap,0,No,No
+15,Dutch Grand Prix,Circuit Zandvoort,Zandvoort,Netherlands,4.259,72,20,Daniel Ricciardo,RB,AUS,3,+1 laps,0,No,No
+16,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,5.793,53,1,Carlos Sainz,Ferrari,ESP,55,1:31:38.304,25,No,No
+16,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,5.793,53,2,George Russell,Mercedes,GBR,63,+15.109,18,No,No
+16,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,5.793,53,3,Max Verstappen,Red Bull Racing,NED,1,+11.981,15,No,No
+16,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,5.793,53,4,Charles Leclerc,Ferrari,MON,16,+62.651,12,No,No
+16,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,5.793,53,5,Sergio Perez,Red Bull Racing,MEX,11,+88.758,10,No,No
+16,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,5.793,53,6,Lewis Hamilton,Mercedes,GBR,44,+69.394,8,No,No
+16,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,5.793,53,7,Esteban Ocon,Alpine,FRA,31,+63.493,6,No,No
+16,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,5.793,53,8,Fernando Alonso,Aston Martin,ESP,14,+48.966,4,No,No
+16,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,5.793,53,9,Oscar Piastri,McLaren,AUS,81,+59.705,2,No,No
+16,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,5.793,53,10,Pierre Gasly,Alpine,FRA,10,+43.971,1,No,No
+16,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,5.793,53,11,Lando Norris,McLaren,GBR,4,+1 laps,0,No,No
+16,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,5.793,53,12,Lance Stroll,Aston Martin,CAN,18,DNF,0,No,No
+16,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,5.793,53,13,Zhou Guanyu,Kick Sauber,CHN,24,+1 laps,0,No,No
+16,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,5.793,53,14,Valtteri Bottas,Kick Sauber,FIN,77,+3 laps,0,No,No
+16,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,5.793,53,15,Kevin Magnussen,Haas,DEN,20,+2 lap,0,No,No
+16,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,5.793,53,16,Alex Albon,Williams,THA,23,+3 lap,0,No,No
+16,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,5.793,53,17,Nico Hulkenberg,Haas,GER,27,+1 laps,0,No,No
+16,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,5.793,53,18,Logan Sargeant,Williams,USA,2,+1 lap,0,No,No
+16,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,5.793,53,19,Daniel Ricciardo,RB,AUS,3,+3 lap,0,No,No
+16,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,5.793,53,20,Yuki Tsunoda,RB,JPN,22,+1 lap,0,No,No
+17,Azerbaijan Grand Prix,Baku City Circuit,Baku,Azerbaijan,6.003,51,1,Lewis Hamilton,Mercedes,GBR,44,1:25:25.696,25,No,No
+17,Azerbaijan Grand Prix,Baku City Circuit,Baku,Azerbaijan,6.003,51,2,Carlos Sainz,Ferrari,ESP,55,+6.682,18,Yes,No
+17,Azerbaijan Grand Prix,Baku City Circuit,Baku,Azerbaijan,6.003,51,3,Max Verstappen,Red Bull Racing,NED,1,+21.256,15,Yes,No
+17,Azerbaijan Grand Prix,Baku City Circuit,Baku,Azerbaijan,6.003,51,4,George Russell,Mercedes,GBR,63,+81.215,12,No,No
+17,Azerbaijan Grand Prix,Baku City Circuit,Baku,Azerbaijan,6.003,51,5,Sergio Perez,Red Bull Racing,MEX,11,+51.306,10,No,No
+17,Azerbaijan Grand Prix,Baku City Circuit,Baku,Azerbaijan,6.003,51,6,Charles Leclerc,Ferrari,MON,16,+32.982,8,No,No
+17,Azerbaijan Grand Prix,Baku City Circuit,Baku,Azerbaijan,6.003,51,7,Lance Stroll,Aston Martin,CAN,18,+51.254,6,No,No
+17,Azerbaijan Grand Prix,Baku City Circuit,Baku,Azerbaijan,6.003,51,8,Lando Norris,McLaren,GBR,4,+16.730,4,No,No
+17,Azerbaijan Grand Prix,Baku City Circuit,Baku,Azerbaijan,6.003,51,9,Fernando Alonso,Aston Martin,ESP,14,+88.467,2,No,No
+17,Azerbaijan Grand Prix,Baku City Circuit,Baku,Azerbaijan,6.003,51,10,Pierre Gasly,Alpine,FRA,10,+85.548,1,No,No
+17,Azerbaijan Grand Prix,Baku City Circuit,Baku,Azerbaijan,6.003,51,11,Oscar Piastri,McLaren,AUS,81,+1 laps,0,No,No
+17,Azerbaijan Grand Prix,Baku City Circuit,Baku,Azerbaijan,6.003,51,12,Esteban Ocon,Alpine,FRA,31,+2 laps,0,No,No
+17,Azerbaijan Grand Prix,Baku City Circuit,Baku,Azerbaijan,6.003,51,13,Kevin Magnussen,Haas,DEN,20,+3 lap,0,No,No
+17,Azerbaijan Grand Prix,Baku City Circuit,Baku,Azerbaijan,6.003,51,14,Nico Hulkenberg,Haas,GER,27,+2 lap,0,No,No
+17,Azerbaijan Grand Prix,Baku City Circuit,Baku,Azerbaijan,6.003,51,15,Logan Sargeant,Williams,USA,2,+1 laps,0,No,No
+17,Azerbaijan Grand Prix,Baku City Circuit,Baku,Azerbaijan,6.003,51,16,Valtteri Bottas,Kick Sauber,FIN,77,+3 laps,0,No,No
+17,Azerbaijan Grand Prix,Baku City Circuit,Baku,Azerbaijan,6.003,51,17,Zhou Guanyu,Kick Sauber,CHN,24,DNF,0,No,No
+17,Azerbaijan Grand Prix,Baku City Circuit,Baku,Azerbaijan,6.003,51,18,Alex Albon,Williams,THA,23,+3 laps,0,No,No
+17,Azerbaijan Grand Prix,Baku City Circuit,Baku,Azerbaijan,6.003,51,19,Daniel Ricciardo,RB,AUS,3,+1 laps,0,No,No
+17,Azerbaijan Grand Prix,Baku City Circuit,Baku,Azerbaijan,6.003,51,20,Yuki Tsunoda,RB,JPN,22,+1 laps,0,No,No
+18,Singapore Grand Prix,Marina Bay Street Circuit,Singapore,Singapore,5.063,61,1,Lewis Hamilton,Mercedes,GBR,44,1:25:59.972,25,Yes,No
+18,Singapore Grand Prix,Marina Bay Street Circuit,Singapore,Singapore,5.063,61,2,Sergio Perez,Red Bull Racing,MEX,11,+8.415,18,No,No
+18,Singapore Grand Prix,Marina Bay Street Circuit,Singapore,Singapore,5.063,61,3,Max Verstappen,Red Bull Racing,NED,1,+24.976,15,No,No
+18,Singapore Grand Prix,Marina Bay Street Circuit,Singapore,Singapore,5.063,61,4,Charles Leclerc,Ferrari,MON,16,+90.421,12,No,No
+18,Singapore Grand Prix,Marina Bay Street Circuit,Singapore,Singapore,5.063,61,5,George Russell,Mercedes,GBR,63,+21.183,10,No,No
+18,Singapore Grand Prix,Marina Bay Street Circuit,Singapore,Singapore,5.063,61,6,Carlos Sainz,Ferrari,ESP,55,+89.680,8,No,No
+18,Singapore Grand Prix,Marina Bay Street Circuit,Singapore,Singapore,5.063,61,7,Lando Norris,McLaren,GBR,4,+75.349,6,No,No
+18,Singapore Grand Prix,Marina Bay Street Circuit,Singapore,Singapore,5.063,61,8,Fernando Alonso,Aston Martin,ESP,14,+54.766,4,No,No
+18,Singapore Grand Prix,Marina Bay Street Circuit,Singapore,Singapore,5.063,61,9,Oscar Piastri,McLaren,AUS,81,+35.634,2,No,No
+18,Singapore Grand Prix,Marina Bay Street Circuit,Singapore,Singapore,5.063,61,10,Pierre Gasly,Alpine,FRA,10,+79.328,1,No,No
+18,Singapore Grand Prix,Marina Bay Street Circuit,Singapore,Singapore,5.063,61,11,Esteban Ocon,Alpine,FRA,31,+1 lap,0,No,No
+18,Singapore Grand Prix,Marina Bay Street Circuit,Singapore,Singapore,5.063,61,12,Lance Stroll,Aston Martin,CAN,18,+3 lap,0,No,No
+18,Singapore Grand Prix,Marina Bay Street Circuit,Singapore,Singapore,5.063,61,13,Yuki Tsunoda,RB,JPN,22,+2 laps,0,No,No
+18,Singapore Grand Prix,Marina Bay Street Circuit,Singapore,Singapore,5.063,61,14,Valtteri Bottas,Kick Sauber,FIN,77,+3 lap,0,No,No
+18,Singapore Grand Prix,Marina Bay Street Circuit,Singapore,Singapore,5.063,61,15,Daniel Ricciardo,RB,AUS,3,+1 lap,0,No,No
+18,Singapore Grand Prix,Marina Bay Street Circuit,Singapore,Singapore,5.063,61,16,Logan Sargeant,Williams,USA,2,+1 laps,0,No,No
+18,Singapore Grand Prix,Marina Bay Street Circuit,Singapore,Singapore,5.063,61,17,Zhou Guanyu,Kick Sauber,CHN,24,+2 laps,0,No,No
+18,Singapore Grand Prix,Marina Bay Street Circuit,Singapore,Singapore,5.063,61,18,Kevin Magnussen,Haas,DEN,20,+3 laps,0,No,No
+18,Singapore Grand Prix,Marina Bay Street Circuit,Singapore,Singapore,5.063,61,19,Alex Albon,Williams,THA,23,+2 laps,0,No,No
+18,Singapore Grand Prix,Marina Bay Street Circuit,Singapore,Singapore,5.063,61,20,Nico Hulkenberg,Haas,GER,27,+1 laps,0,No,No
+19,United States Grand Prix,Circuit of the Americas,Austin,USA,5.513,56,1,Sergio Perez,Red Bull Racing,MEX,11,1:29:30.260,25,Yes,Yes
+19,United States Grand Prix,Circuit of the Americas,Austin,USA,5.513,56,2,Charles Leclerc,Ferrari,MON,16,+5.583,18,No,No
+19,United States Grand Prix,Circuit of the Americas,Austin,USA,5.513,56,3,Carlos Sainz,Ferrari,ESP,55,+25.566,15,No,No
+19,United States Grand Prix,Circuit of the Americas,Austin,USA,5.513,56,4,Lewis Hamilton,Mercedes,GBR,44,+29.667,12,No,No
+19,United States Grand Prix,Circuit of the Americas,Austin,USA,5.513,56,5,George Russell,Mercedes,GBR,63,+80.117,10,No,No
+19,United States Grand Prix,Circuit of the Americas,Austin,USA,5.513,56,6,Max Verstappen,Red Bull Racing,NED,1,+24.419,8,No,No
+19,United States Grand Prix,Circuit of the Americas,Austin,USA,5.513,56,7,Oscar Piastri,McLaren,AUS,81,+65.198,6,No,No
+19,United States Grand Prix,Circuit of the Americas,Austin,USA,5.513,56,8,Esteban Ocon,Alpine,FRA,31,+78.797,4,No,No
+19,United States Grand Prix,Circuit of the Americas,Austin,USA,5.513,56,9,Fernando Alonso,Aston Martin,ESP,14,+75.690,2,No,No
+19,United States Grand Prix,Circuit of the Americas,Austin,USA,5.513,56,10,Pierre Gasly,Alpine,FRA,10,+47.476,1,No,No
+19,United States Grand Prix,Circuit of the Americas,Austin,USA,5.513,56,11,Lando Norris,McLaren,GBR,4,+3 lap,0,No,No
+19,United States Grand Prix,Circuit of the Americas,Austin,USA,5.513,56,12,Lance Stroll,Aston Martin,CAN,18,+3 laps,0,No,No
+19,United States Grand Prix,Circuit of the Americas,Austin,USA,5.513,56,13,Logan Sargeant,Williams,USA,2,+1 laps,0,No,No
+19,United States Grand Prix,Circuit of the Americas,Austin,USA,5.513,56,14,Daniel Ricciardo,RB,AUS,3,+2 laps,0,No,No
+19,United States Grand Prix,Circuit of the Americas,Austin,USA,5.513,56,15,Kevin Magnussen,Haas,DEN,20,+3 laps,0,No,No
+19,United States Grand Prix,Circuit of the Americas,Austin,USA,5.513,56,16,Nico Hulkenberg,Haas,GER,27,+1 laps,0,No,No
+19,United States Grand Prix,Circuit of the Americas,Austin,USA,5.513,56,17,Zhou Guanyu,Kick Sauber,CHN,24,+1 laps,0,No,No
+19,United States Grand Prix,Circuit of the Americas,Austin,USA,5.513,56,18,Yuki Tsunoda,RB,JPN,22,+2 lap,0,No,No
+19,United States Grand Prix,Circuit of the Americas,Austin,USA,5.513,56,19,Alex Albon,Williams,THA,23,+2 laps,0,No,No
+19,United States Grand Prix,Circuit of the Americas,Austin,USA,5.513,56,20,Valtteri Bottas,Kick Sauber,FIN,77,+3 lap,0,No,No
+20,Mexico City Grand Prix,Autodromo Hermanos Rodriguez,Mexico City,Mexico,4.304,71,1,Max Verstappen,Red Bull Racing,NED,1,1:35:50.919,25,No,Yes
+20,Mexico City Grand Prix,Autodromo Hermanos Rodriguez,Mexico City,Mexico,4.304,71,2,Charles Leclerc,Ferrari,MON,16,+6.121,18,No,No
+20,Mexico City Grand Prix,Autodromo Hermanos Rodriguez,Mexico City,Mexico,4.304,71,3,George Russell,Mercedes,GBR,63,+11.389,15,Yes,No
+20,Mexico City Grand Prix,Autodromo Hermanos Rodriguez,Mexico City,Mexico,4.304,71,4,Carlos Sainz,Ferrari,ESP,55,+74.664,12,No,No
+20,Mexico City Grand Prix,Autodromo Hermanos Rodriguez,Mexico City,Mexico,4.304,71,5,Sergio Perez,Red Bull Racing,MEX,11,+29.485,10,No,No
+20,Mexico City Grand Prix,Autodromo Hermanos Rodriguez,Mexico City,Mexico,4.304,71,6,Lewis Hamilton,Mercedes,GBR,44,+40.149,8,No,No
+20,Mexico City Grand Prix,Autodromo Hermanos Rodriguez,Mexico City,Mexico,4.304,71,7,Lando Norris,McLaren,GBR,4,+19.688,6,No,No
+20,Mexico City Grand Prix,Autodromo Hermanos Rodriguez,Mexico City,Mexico,4.304,71,8,Oscar Piastri,McLaren,AUS,81,+81.294,4,No,No
+20,Mexico City Grand Prix,Autodromo Hermanos Rodriguez,Mexico City,Mexico,4.304,71,9,Lance Stroll,Aston Martin,CAN,18,+41.633,2,No,No
+20,Mexico City Grand Prix,Autodromo Hermanos Rodriguez,Mexico City,Mexico,4.304,71,10,Pierre Gasly,Alpine,FRA,10,+46.785,1,No,No
+20,Mexico City Grand Prix,Autodromo Hermanos Rodriguez,Mexico City,Mexico,4.304,71,11,Esteban Ocon,Alpine,FRA,31,+2 laps,0,No,No
+20,Mexico City Grand Prix,Autodromo Hermanos Rodriguez,Mexico City,Mexico,4.304,71,12,Fernando Alonso,Aston Martin,ESP,14,+1 laps,0,No,No
+20,Mexico City Grand Prix,Autodromo Hermanos Rodriguez,Mexico City,Mexico,4.304,71,13,Logan Sargeant,Williams,USA,2,+1 laps,0,No,No
+20,Mexico City Grand Prix,Autodromo Hermanos Rodriguez,Mexico City,Mexico,4.304,71,14,Valtteri Bottas,Kick Sauber,FIN,77,+2 lap,0,No,No
+20,Mexico City Grand Prix,Autodromo Hermanos Rodriguez,Mexico City,Mexico,4.304,71,15,Nico Hulkenberg,Haas,GER,27,DNF,0,No,No
+20,Mexico City Grand Prix,Autodromo Hermanos Rodriguez,Mexico City,Mexico,4.304,71,16,Kevin Magnussen,Haas,DEN,20,+1 laps,0,No,No
+20,Mexico City Grand Prix,Autodromo Hermanos Rodriguez,Mexico City,Mexico,4.304,71,17,Zhou Guanyu,Kick Sauber,CHN,24,+3 laps,0,No,No
+20,Mexico City Grand Prix,Autodromo Hermanos Rodriguez,Mexico City,Mexico,4.304,71,18,Daniel Ricciardo,RB,AUS,3,+3 laps,0,No,No
+20,Mexico City Grand Prix,Autodromo Hermanos Rodriguez,Mexico City,Mexico,4.304,71,19,Alex Albon,Williams,THA,23,+1 laps,0,No,No
+20,Mexico City Grand Prix,Autodromo Hermanos Rodriguez,Mexico City,Mexico,4.304,71,20,Yuki Tsunoda,RB,JPN,22,+2 laps,0,No,No
+21,Brazilian Grand Prix,Autodromo Jose Carlos Pace,Sao Paulo,Brazil,4.309,71,1,George Russell,Mercedes,GBR,63,1:29:36.839,25,Yes,Yes
+21,Brazilian Grand Prix,Autodromo Jose Carlos Pace,Sao Paulo,Brazil,4.309,71,2,Lewis Hamilton,Mercedes,GBR,44,+4.829,18,Yes,No
+21,Brazilian Grand Prix,Autodromo Jose Carlos Pace,Sao Paulo,Brazil,4.309,71,3,Charles Leclerc,Ferrari,MON,16,+21.221,15,No,No
+21,Brazilian Grand Prix,Autodromo Jose Carlos Pace,Sao Paulo,Brazil,4.309,71,4,Sergio Perez,Red Bull Racing,MEX,11,+18.621,12,No,No
+21,Brazilian Grand Prix,Autodromo Jose Carlos Pace,Sao Paulo,Brazil,4.309,71,5,Carlos Sainz,Ferrari,ESP,55,+16.889,10,No,No
+21,Brazilian Grand Prix,Autodromo Jose Carlos Pace,Sao Paulo,Brazil,4.309,71,6,Max Verstappen,Red Bull Racing,NED,1,+64.241,8,No,No
+21,Brazilian Grand Prix,Autodromo Jose Carlos Pace,Sao Paulo,Brazil,4.309,71,7,Oscar Piastri,McLaren,AUS,81,+58.230,6,No,No
+21,Brazilian Grand Prix,Autodromo Jose Carlos Pace,Sao Paulo,Brazil,4.309,71,8,Pierre Gasly,Alpine,FRA,10,+30.795,4,No,No
+21,Brazilian Grand Prix,Autodromo Jose Carlos Pace,Sao Paulo,Brazil,4.309,71,9,Lando Norris,McLaren,GBR,4,+89.251,2,No,No
+21,Brazilian Grand Prix,Autodromo Jose Carlos Pace,Sao Paulo,Brazil,4.309,71,10,Fernando Alonso,Aston Martin,ESP,14,+18.950,1,No,No
+21,Brazilian Grand Prix,Autodromo Jose Carlos Pace,Sao Paulo,Brazil,4.309,71,11,Lance Stroll,Aston Martin,CAN,18,+2 lap,0,No,No
+21,Brazilian Grand Prix,Autodromo Jose Carlos Pace,Sao Paulo,Brazil,4.309,71,12,Esteban Ocon,Alpine,FRA,31,+1 laps,0,No,No
+21,Brazilian Grand Prix,Autodromo Jose Carlos Pace,Sao Paulo,Brazil,4.309,71,13,Daniel Ricciardo,RB,AUS,3,+3 laps,0,No,No
+21,Brazilian Grand Prix,Autodromo Jose Carlos Pace,Sao Paulo,Brazil,4.309,71,14,Valtteri Bottas,Kick Sauber,FIN,77,+3 laps,0,No,No
+21,Brazilian Grand Prix,Autodromo Jose Carlos Pace,Sao Paulo,Brazil,4.309,71,15,Kevin Magnussen,Haas,DEN,20,+3 laps,0,No,No
+21,Brazilian Grand Prix,Autodromo Jose Carlos Pace,Sao Paulo,Brazil,4.309,71,16,Nico Hulkenberg,Haas,GER,27,+2 laps,0,No,No
+21,Brazilian Grand Prix,Autodromo Jose Carlos Pace,Sao Paulo,Brazil,4.309,71,17,Yuki Tsunoda,RB,JPN,22,+1 laps,0,No,No
+21,Brazilian Grand Prix,Autodromo Jose Carlos Pace,Sao Paulo,Brazil,4.309,71,18,Logan Sargeant,Williams,USA,2,+1 laps,0,No,No
+21,Brazilian Grand Prix,Autodromo Jose Carlos Pace,Sao Paulo,Brazil,4.309,71,19,Alex Albon,Williams,THA,23,+2 laps,0,No,No
+21,Brazilian Grand Prix,Autodromo Jose Carlos Pace,Sao Paulo,Brazil,4.309,71,20,Zhou Guanyu,Kick Sauber,CHN,24,+3 lap,0,No,No
+22,Las Vegas Grand Prix,Las Vegas Street Circuit,Las Vegas,USA,6.201,50,1,Max Verstappen,Red Bull Racing,NED,1,1:30:21.934,25,No,Yes
+22,Las Vegas Grand Prix,Las Vegas Street Circuit,Las Vegas,USA,6.201,50,2,Lewis Hamilton,Mercedes,GBR,44,+10.562,18,No,No
+22,Las Vegas Grand Prix,Las Vegas Street Circuit,Las Vegas,USA,6.201,50,3,Carlos Sainz,Ferrari,ESP,55,+9.903,15,No,No
+22,Las Vegas Grand Prix,Las Vegas Street Circuit,Las Vegas,USA,6.201,50,4,Sergio Perez,Red Bull Racing,MEX,11,+70.820,12,No,No
+22,Las Vegas Grand Prix,Las Vegas Street Circuit,Las Vegas,USA,6.201,50,5,George Russell,Mercedes,GBR,63,+59.403,10,No,No
+22,Las Vegas Grand Prix,Las Vegas Street Circuit,Las Vegas,USA,6.201,50,6,Charles Leclerc,Ferrari,MON,16,+52.282,8,No,No
+22,Las Vegas Grand Prix,Las Vegas Street Circuit,Las Vegas,USA,6.201,50,7,Esteban Ocon,Alpine,FRA,31,+37.439,6,No,No
+22,Las Vegas Grand Prix,Las Vegas Street Circuit,Las Vegas,USA,6.201,50,8,Fernando Alonso,Aston Martin,ESP,14,+45.675,4,No,No
+22,Las Vegas Grand Prix,Las Vegas Street Circuit,Las Vegas,USA,6.201,50,9,Pierre Gasly,Alpine,FRA,10,+42.507,2,No,No
+22,Las Vegas Grand Prix,Las Vegas Street Circuit,Las Vegas,USA,6.201,50,10,Lance Stroll,Aston Martin,CAN,18,+24.148,1,No,No
+22,Las Vegas Grand Prix,Las Vegas Street Circuit,Las Vegas,USA,6.201,50,11,Lando Norris,McLaren,GBR,4,+1 laps,0,No,No
+22,Las Vegas Grand Prix,Las Vegas Street Circuit,Las Vegas,USA,6.201,50,12,Oscar Piastri,McLaren,AUS,81,+2 lap,0,No,No
+22,Las Vegas Grand Prix,Las Vegas Street Circuit,Las Vegas,USA,6.201,50,13,Zhou Guanyu,Kick Sauber,CHN,24,DNF,0,No,No
+22,Las Vegas Grand Prix,Las Vegas Street Circuit,Las Vegas,USA,6.201,50,14,Nico Hulkenberg,Haas,GER,27,+3 lap,0,No,No
+22,Las Vegas Grand Prix,Las Vegas Street Circuit,Las Vegas,USA,6.201,50,15,Kevin Magnussen,Haas,DEN,20,+2 lap,0,No,No
+22,Las Vegas Grand Prix,Las Vegas Street Circuit,Las Vegas,USA,6.201,50,16,Yuki Tsunoda,RB,JPN,22,+3 lap,0,No,No
+22,Las Vegas Grand Prix,Las Vegas Street Circuit,Las Vegas,USA,6.201,50,17,Daniel Ricciardo,RB,AUS,3,+2 laps,0,No,No
+22,Las Vegas Grand Prix,Las Vegas Street Circuit,Las Vegas,USA,6.201,50,18,Valtteri Bottas,Kick Sauber,FIN,77,+2 lap,0,No,No
+22,Las Vegas Grand Prix,Las Vegas Street Circuit,Las Vegas,USA,6.201,50,19,Alex Albon,Williams,THA,23,+3 laps,0,No,No
+22,Las Vegas Grand Prix,Las Vegas Street Circuit,Las Vegas,USA,6.201,50,20,Logan Sargeant,Williams,USA,2,+3 laps,0,No,No
+23,Qatar Grand Prix,Lusail International Circuit,Lusail,Qatar,5.419,57,1,Charles Leclerc,Ferrari,MON,16,1:27:21.577,25,No,Yes
+23,Qatar Grand Prix,Lusail International Circuit,Lusail,Qatar,5.419,57,2,Lewis Hamilton,Mercedes,GBR,44,+8.721,18,No,No
+23,Qatar Grand Prix,Lusail International Circuit,Lusail,Qatar,5.419,57,3,Sergio Perez,Red Bull Racing,MEX,11,+22.862,15,No,No
+23,Qatar Grand Prix,Lusail International Circuit,Lusail,Qatar,5.419,57,4,George Russell,Mercedes,GBR,63,+59.826,12,No,No
+23,Qatar Grand Prix,Lusail International Circuit,Lusail,Qatar,5.419,57,5,Max Verstappen,Red Bull Racing,NED,1,+28.217,10,No,No
+23,Qatar Grand Prix,Lusail International Circuit,Lusail,Qatar,5.419,57,6,Carlos Sainz,Ferrari,ESP,55,+65.757,8,No,No
+23,Qatar Grand Prix,Lusail International Circuit,Lusail,Qatar,5.419,57,7,Lando Norris,McLaren,GBR,4,+47.652,6,No,No
+23,Qatar Grand Prix,Lusail International Circuit,Lusail,Qatar,5.419,57,8,Esteban Ocon,Alpine,FRA,31,+56.796,4,No,No
+23,Qatar Grand Prix,Lusail International Circuit,Lusail,Qatar,5.419,57,9,Oscar Piastri,McLaren,AUS,81,+53.140,2,No,No
+23,Qatar Grand Prix,Lusail International Circuit,Lusail,Qatar,5.419,57,10,Lance Stroll,Aston Martin,CAN,18,+29.981,1,No,No
+23,Qatar Grand Prix,Lusail International Circuit,Lusail,Qatar,5.419,57,11,Pierre Gasly,Alpine,FRA,10,+1 laps,0,No,No
+23,Qatar Grand Prix,Lusail International Circuit,Lusail,Qatar,5.419,57,12,Fernando Alonso,Aston Martin,ESP,14,+3 laps,0,No,No
+23,Qatar Grand Prix,Lusail International Circuit,Lusail,Qatar,5.419,57,13,Zhou Guanyu,Kick Sauber,CHN,24,+1 laps,0,No,No
+23,Qatar Grand Prix,Lusail International Circuit,Lusail,Qatar,5.419,57,14,Valtteri Bottas,Kick Sauber,FIN,77,+3 laps,0,No,No
+23,Qatar Grand Prix,Lusail International Circuit,Lusail,Qatar,5.419,57,15,Kevin Magnussen,Haas,DEN,20,+3 laps,0,No,No
+23,Qatar Grand Prix,Lusail International Circuit,Lusail,Qatar,5.419,57,16,Daniel Ricciardo,RB,AUS,3,DNF,0,No,No
+23,Qatar Grand Prix,Lusail International Circuit,Lusail,Qatar,5.419,57,17,Yuki Tsunoda,RB,JPN,22,+1 laps,0,No,No
+23,Qatar Grand Prix,Lusail International Circuit,Lusail,Qatar,5.419,57,18,Nico Hulkenberg,Haas,GER,27,+3 laps,0,No,No
+23,Qatar Grand Prix,Lusail International Circuit,Lusail,Qatar,5.419,57,19,Alex Albon,Williams,THA,23,+1 laps,0,No,No
+23,Qatar Grand Prix,Lusail International Circuit,Lusail,Qatar,5.419,57,20,Logan Sargeant,Williams,USA,2,+2 lap,0,No,No
+24,Abu Dhabi Grand Prix,Yas Marina Circuit,Abu Dhabi,UAE,5.281,58,1,George Russell,Mercedes,GBR,63,1:28:27.551,25,Yes,Yes
+24,Abu Dhabi Grand Prix,Yas Marina Circuit,Abu Dhabi,UAE,5.281,58,2,Lewis Hamilton,Mercedes,GBR,44,+8.173,18,No,No
+24,Abu Dhabi Grand Prix,Yas Marina Circuit,Abu Dhabi,UAE,5.281,58,3,Max Verstappen,Red Bull Racing,NED,1,+19.962,15,No,No
+24,Abu Dhabi Grand Prix,Yas Marina Circuit,Abu Dhabi,UAE,5.281,58,4,Carlos Sainz,Ferrari,ESP,55,+45.665,12,Yes,No
+24,Abu Dhabi Grand Prix,Yas Marina Circuit,Abu Dhabi,UAE,5.281,58,5,Sergio Perez,Red Bull Racing,MEX,11,+79.986,10,No,No
+24,Abu Dhabi Grand Prix,Yas Marina Circuit,Abu Dhabi,UAE,5.281,58,6,Charles Leclerc,Ferrari,MON,16,+55.510,8,No,No
+24,Abu Dhabi Grand Prix,Yas Marina Circuit,Abu Dhabi,UAE,5.281,58,7,Oscar Piastri,McLaren,AUS,81,+33.940,6,No,No
+24,Abu Dhabi Grand Prix,Yas Marina Circuit,Abu Dhabi,UAE,5.281,58,8,Esteban Ocon,Alpine,FRA,31,+75.127,4,No,No
+24,Abu Dhabi Grand Prix,Yas Marina Circuit,Abu Dhabi,UAE,5.281,58,9,Lando Norris,McLaren,GBR,4,+38.977,2,No,No
+24,Abu Dhabi Grand Prix,Yas Marina Circuit,Abu Dhabi,UAE,5.281,58,10,Lance Stroll,Aston Martin,CAN,18,+80.365,1,No,No
+24,Abu Dhabi Grand Prix,Yas Marina Circuit,Abu Dhabi,UAE,5.281,58,11,Fernando Alonso,Aston Martin,ESP,14,+2 laps,0,No,No
+24,Abu Dhabi Grand Prix,Yas Marina Circuit,Abu Dhabi,UAE,5.281,58,12,Pierre Gasly,Alpine,FRA,10,+1 laps,0,No,No
+24,Abu Dhabi Grand Prix,Yas Marina Circuit,Abu Dhabi,UAE,5.281,58,13,Yuki Tsunoda,RB,JPN,22,+1 laps,0,No,No
+24,Abu Dhabi Grand Prix,Yas Marina Circuit,Abu Dhabi,UAE,5.281,58,14,Alex Albon,Williams,THA,23,+3 laps,0,No,No
+24,Abu Dhabi Grand Prix,Yas Marina Circuit,Abu Dhabi,UAE,5.281,58,15,Valtteri Bottas,Kick Sauber,FIN,77,DNF,0,No,No
+24,Abu Dhabi Grand Prix,Yas Marina Circuit,Abu Dhabi,UAE,5.281,58,16,Kevin Magnussen,Haas,DEN,20,+1 laps,0,No,No
+24,Abu Dhabi Grand Prix,Yas Marina Circuit,Abu Dhabi,UAE,5.281,58,17,Logan Sargeant,Williams,USA,2,+2 laps,0,No,No
+24,Abu Dhabi Grand Prix,Yas Marina Circuit,Abu Dhabi,UAE,5.281,58,18,Daniel Ricciardo,RB,AUS,3,+2 laps,0,No,No
+24,Abu Dhabi Grand Prix,Yas Marina Circuit,Abu Dhabi,UAE,5.281,58,19,Zhou Guanyu,Kick Sauber,CHN,24,+2 lap,0,No,No
+24,Abu Dhabi Grand Prix,Yas Marina Circuit,Abu Dhabi,UAE,5.281,58,20,Nico Hulkenberg,Haas,GER,27,+1 laps,0,No,No

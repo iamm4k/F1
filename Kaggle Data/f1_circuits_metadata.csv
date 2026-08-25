@@ -1,0 +1,25 @@
+circuit_name,city,country,circuit_length_km,total_laps,number_of_turns,lap_record,lap_record_holder,lap_record_year,drs_zones,first_f1_race,circuit_type,elevation_change_m,race_distance_km
+Bahrain International Circuit,Sakhir,Bahrain,5.412,57,15,1:31.447,Lewis Hamilton,2020,3,2004,Permanent Circuit,44,308.48
+Jeddah Corniche Circuit,Jeddah,Saudi Arabia,6.174,50,27,1:30.734,Lewis Hamilton,2021,3,2021,Permanent Circuit,20,308.7
+Albert Park Circuit,Melbourne,Australia,5.278,58,16,1:20.260,Charles Leclerc,2022,2,1996,Permanent Circuit,51,306.12
+Suzuka International Racing Course,Suzuka,Japan,5.807,53,18,1:30.983,Lewis Hamilton,2019,2,1987,Permanent Circuit,48,307.77
+Shanghai International Circuit,Shanghai,China,5.451,56,16,1:32.238,Michael Schumacher,2004,2,2004,Permanent Circuit,26,305.26
+Miami International Autodrome,Miami,USA,5.412,57,19,1:31.361,Max Verstappen,2022,3,2022,Permanent Circuit,40,308.48
+Autodromo Enzo e Dino Ferrari,Imola,Italy,4.909,63,21,1:15.484,Lewis Hamilton,2020,2,1980,Permanent Circuit,27,309.27
+Circuit de Monaco,Monte Carlo,Monaco,3.337,78,19,1:12.909,Lewis Hamilton,2021,1,1950,Street Circuit,13,260.29
+Circuit Gilles Villeneuve,Montreal,Canada,4.361,70,14,1:13.078,Valtteri Bottas,2019,1,1978,Permanent Circuit,27,305.27
+Circuit de Barcelona-Catalunya,Barcelona,Spain,4.675,66,16,1:18.149,Max Verstappen,2023,2,1991,Permanent Circuit,37,308.55
+Red Bull Ring,Spielberg,Austria,4.318,71,10,1:05.619,Carlos Sainz,2020,3,1970,Permanent Circuit,23,306.58
+Silverstone Circuit,Silverstone,United Kingdom,5.891,52,18,1:27.097,Max Verstappen,2020,2,1950,Permanent Circuit,51,306.33
+Hungaroring,Budapest,Hungary,4.381,70,14,1:16.627,Lewis Hamilton,2020,1,1986,Permanent Circuit,36,306.67
+Circuit de Spa-Francorchamps,Spa,Belgium,7.004,44,19,1:46.286,Valtteri Bottas,2018,1,1950,Permanent Circuit,53,308.18
+Circuit Zandvoort,Zandvoort,Netherlands,4.259,72,14,1:11.097,Lewis Hamilton,2021,1,2021,Permanent Circuit,57,306.65
+Autodromo Nazionale di Monza,Monza,Italy,5.793,53,11,1:21.046,Rubens Barrichello,2004,1,1950,Permanent Circuit,51,307.03
+Baku City Circuit,Baku,Azerbaijan,6.003,51,20,1:43.009,Charles Leclerc,2019,2,2016,Permanent Circuit,24,306.15
+Marina Bay Street Circuit,Singapore,Singapore,5.063,61,23,1:41.905,Lewis Hamilton,2023,0,2008,Street Circuit,27,308.84
+Circuit of the Americas,Austin,USA,5.513,56,20,1:36.169,Charles Leclerc,2019,2,2012,Permanent Circuit,49,308.73
+Autodromo Hermanos Rodriguez,Mexico City,Mexico,4.304,71,17,1:17.774,Valtteri Bottas,2021,1,1963,Permanent Circuit,14,305.58
+Autodromo Jose Carlos Pace,Sao Paulo,Brazil,4.309,71,15,1:10.540,Valtteri Bottas,2018,2,1973,Permanent Circuit,23,305.94
+Las Vegas Street Circuit,Las Vegas,USA,6.201,50,17,1:35.490,Oscar Piastri,2023,2,2023,Street Circuit,24,310.05
+Lusail International Circuit,Lusail,Qatar,5.419,57,16,1:24.319,Max Verstappen,2023,1,2021,Permanent Circuit,9,308.88
+Yas Marina Circuit,Abu Dhabi,UAE,5.281,58,16,1:26.103,Max Verstappen,2021,2,2009,Permanent Circuit,54,306.3
