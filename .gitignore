@@ -1,0 +1,14 @@
+.venv/
+fastf1_cache/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+*.zip
