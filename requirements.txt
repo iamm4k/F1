@@ -1,15 +1,1 @@
-fastf1==3.5.3
-pandas==2.2.3
-numpy==2.2.3
-matplotlib==3.10.0
-scikit-learn==1.6.1
-xgboost==2.1.4
-scipy==1.15.2
-seaborn==0.13.2
-tqdm==4.67.1
-pyarrow==19.0.1
 
-# Notes for the client:
-# - Prefer Python 3.10–3.12; 3.13 also works with these pins.
-# - On Windows, xgboost may need the MSVC Redistributable if import fails.
-# - First FastF1 runs need network; cache is created under ./fastf1_cache.
